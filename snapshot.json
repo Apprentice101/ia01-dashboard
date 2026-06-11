@@ -1,0 +1,117 @@
+{
+  "version": "1",
+  "dataAsOf": "2026-06-10",
+  "updatedAt": "2026-06-10T22:00:00Z",
+  "exportedAt": "2026-06-10T22:00:00Z",
+  "data": {
+    "DISTRICT": {
+      "id": "ia-01",
+      "name": "IA-01 (US Congressional District)",
+      "state": "Iowa",
+      "counties": [
+        "Scott",
+        "Johnson",
+        "Des Moines",
+        "Wapello",
+        "Muscatine",
+        "Linn (parts)"
+      ]
+    },
+    "UPDATES": [],
+    "CONFLICTS": [],
+    "NEWS": [
+      {
+        "headline": "Henry County Supervisors to Certify Primary Election Results Today",
+        "sourceName": "KILJ Radio (Mount Pleasant, Iowa)",
+        "url": "https://kilj.com/henry-county-supervisors-to-certify-primary-election-results-today/",
+        "publishedAt": "2026-06-09",
+        "relevanceSummary": "Henry County (Des Moines County neighbor in the IA-01 corridor) held its official county canvass of the June 2 primary at the Mount Pleasant courthouse on June 9, reviewing precinct returns, absentee ballots, and provisional ballots before forwarding certified totals to the State of Iowa. This is part of the statewide post-primary certification process that governs all IA-01 county races and the congressional primary results.",
+        "tag": "certification",
+        "id": "news-2026-0610-ia-01-01",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Black Hawk County Post-Election Audit Confirms Primary Election Results",
+        "sourceName": "Black Hawk County, Iowa (official government news release)",
+        "url": "https://www.blackhawkcounty.iowa.gov/m/newsflash/home/detail/707",
+        "publishedAt": "2026-06-04",
+        "relevanceSummary": "Iowa law requires the Secretary of State to randomly select one precinct per county for a mandatory hand-count audit the day after every election; Black Hawk County's June 4 audit found a perfect match between hand counts and machine totals, confirming the accuracy of results. Though Black Hawk County sits in IA-02, the same statewide audit protocol applies to every IA-01 county \u2014 Scott, Johnson, Linn, Des Moines, Wapello, and Muscatine \u2014 giving IA-01 voters independent verification of their primary results.",
+        "tag": "administration",
+        "id": "news-2026-0610-ia-01-02",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Miller-Meeks and Bohannan Set for Third Consecutive Rematch in Iowa's 1st District",
+        "sourceName": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/political-news/2026-06-02/2026-iowa-primary-election-results",
+        "publishedAt": "2026-06-03",
+        "relevanceSummary": "Incumbent Republican Mariannette Miller-Meeks defeated challenger David Pautsch by more than 40 percentage points in the IA-01 Republican primary, while Democrat Christina Bohannan beat Travis Terrell with over 80 percent of the vote, setting up a November general election rematch for a third consecutive cycle. Independent Michael Bridgford is also running; the Cook Political Report rates the race a toss-up, and both candidates entered the post-primary period with over $4 million cash on hand.",
+        "tag": "primary",
+        "id": "news-2026-0610-ia-01-03",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Democrat Christina Bohannan to Take on Iowa GOP Rep. Mariannette Miller-Meeks",
+        "sourceName": "CBS News",
+        "url": "https://www.cbsnews.com/news/iowa-1st-congressional-district-democratic-primary-christina-bohannon-miller-meeks/",
+        "publishedAt": "2026-06-03",
+        "relevanceSummary": "CBS News projects Bohannan wins the IA-01 Democratic primary and advances to face Miller-Meeks in November \u2014 their previous contests ended in Miller-Meeks wins by roughly 20,000 votes in 2022 and fewer than 800 votes in 2024, with both finalized only after recounts. The DCCC lists IA-01 as a top House flip target, and the Cook Political Report rates it a toss-up heading into the general election on November 3, 2026.",
+        "tag": "primary",
+        "id": "news-2026-0610-ia-01-04",
+        "reviewState": "new"
+      },
+      {
+        "headline": "2026 Iowa Primary Results for Greater Quad Cities Area",
+        "sourceName": "WVIK Quad Cities NPR",
+        "url": "https://www.wvik.org/wvik-top-stories/2026-06-02/whos-running-in-the-2026-iowa-primaries-for-state-and-local-offices",
+        "publishedAt": "2026-06-03",
+        "relevanceSummary": "In Scott County (Davenport, the largest IA-01 county), over 20,000 voters participated in the June 2 primary at a 16.37% turnout rate; Miller-Meeks took 6,492 Republican votes to Pautsch's 2,760, while Bohannan won 8,601 Democratic votes to Terrell's 1,894. Scott County's Board of Supervisors race also advanced three Republicans and one Democrat toward November, and incumbent state Rep. Ken Croken lost a Davenport Democratic House primary to Adam Peters.",
+        "tag": "primary",
+        "id": "news-2026-0610-ia-01-05",
+        "reviewState": "new"
+      },
+      {
+        "headline": "Attestation Will No Longer Be an Option After July 1, When a New State Law Will Take Effect",
+        "sourceName": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/political-news/2026-06-01/whos-running-in-iowas-primary-your-voter-guide-for-the-june-2-election",
+        "publishedAt": "2026-06-03",
+        "relevanceSummary": "A new Iowa law eliminates the option for a registered neighbor to attest to another voter's identity starting July 1, 2026 \u2014 meaning this option that was available at the June 2 primary will no longer be available at the November 3 general election in IA-01. Voters in the district (including the large student population in Iowa City's Johnson County) who lack a qualifying photo ID must obtain an Iowa Voter ID card from their county auditor before the fall election.",
+        "tag": "rule-change",
+        "id": "news-2026-0610-ia-01-06",
+        "reviewState": "new"
+      }
+    ],
+    "SOURCES": [],
+    "ELECTION_EVENTS": [],
+    "RULES": [],
+    "RESOURCES": [],
+    "LAST_REFRESH": {
+      "id": "run-2026-06-10T22-00-00-ia-01",
+      "startedAt": "2026-06-10T21:59:30.000Z",
+      "completedAt": "2026-06-10T22:00:00Z",
+      "triggerType": "manual",
+      "sourcesChecked": 9,
+      "updatesCreated": 0,
+      "conflictsCreated": 0,
+      "errors": [],
+      "summary": "IA-01 weekly refresh on 2026-06-10. Status: Iowa primary (held), 8 days post-primary; general Nov 3. Incumbent: Rep. Mariannette Miller-Meeks (R); opponent: Democrat Christina Bohannan \u2014 third rematch. Six new news items added covering the past week (Jun 3-10). IA-01 primary completed June 2 with the third Miller-Meeks vs. Bohannan matchup confirmed for November 3. This week's stories cover canvass / certification activity in the district's counties, a Black Hawk County hand-count audit, and a July 1 elimination of Iowa's attestation option that will affect November voters. Procedural rules and election-event dates unchanged from the bundle baseline; all news items routed to the human-review queue for editor confirmation."
+    },
+    "NEXT_REFRESH_AT": "2026-06-12T22:00:00Z",
+    "WEEKLY_REPORT": {
+      "id": "wr-2026-w24-ia-01",
+      "periodStart": "2026-06-08",
+      "periodEnd": "2026-06-14",
+      "sourcesChecked": 9,
+      "newUpdates": 0,
+      "conflictsCreated": 0,
+      "conflictsResolved": 0,
+      "deadlinesChanged": 0,
+      "rulesChanged": 0,
+      "newsItems": 6,
+      "needsReview": 6,
+      "sourceErrors": 0,
+      "summary": "IA-01 primary completed June 2 with the third Miller-Meeks vs. Bohannan matchup confirmed for November 3. This week's stories cover canvass / certification activity in the district's counties, a Black Hawk County hand-count audit, and a July 1 elimination of Iowa's attestation option that will affect November voters.",
+      "generatedAt": "2026-06-10T22:00:00Z"
+    }
+  }
+}
