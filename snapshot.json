@@ -112,6 +112,8 @@
       "sourceErrors": 0,
       "summary": "IA-01 primary completed June 2 with the third Miller-Meeks vs. Bohannan matchup confirmed for November 3. This week's stories cover canvass / certification activity in the district's counties, a Black Hawk County hand-count audit, and a July 1 elimination of Iowa's attestation option that will affect November voters.",
       "generatedAt": "2026-06-10T22:00:00Z"
-    }
-  }
+    },
+    "districtNumber": "IA-01"
+  },
+  "districtCode": "IA-01"
 }
