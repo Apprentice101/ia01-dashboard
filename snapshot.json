@@ -1,119 +1,777 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-10",
-  "updatedAt": "2026-06-10T22:00:00Z",
-  "exportedAt": "2026-06-10T22:00:00Z",
+  "dataAsOf": "2026-06-02",
+  "updatedAt": "2026-06-02T21:45:00Z",
+  "exportedAt": "2026-06-15T19:44:33.864Z",
+  "districtCode": "IA-01",
   "data": {
     "DISTRICT": {
       "id": "ia-01",
-      "name": "IA-01 (US Congressional District)",
+      "districtNumber": "IA-01",
+      "districtName": "Iowa's 1st Congressional District",
       "state": "Iowa",
       "counties": [
-        "Scott",
-        "Johnson",
+        "Cedar",
+        "Clinton",
         "Des Moines",
-        "Wapello",
+        "Henry",
+        "Iowa",
+        "Jackson",
+        "Jasper",
+        "Jefferson",
+        "Johnson",
+        "Jones",
+        "Keokuk",
+        "Lee",
+        "Louisa",
+        "Mahaska",
+        "Marion",
         "Muscatine",
-        "Linn (parts)"
-      ]
+        "Scott",
+        "Van Buren",
+        "Warren",
+        "Washington"
+      ],
+      "majorPlaces": [
+        "Davenport",
+        "Iowa City",
+        "Burlington",
+        "Muscatine",
+        "Indianola"
+      ],
+      "cycleYear": 2026,
+      "population": 761169,
+      "registeredVoters": 480000,
+      "partyRegistration": [
+        {
+          "label": "Democratic",
+          "count": 158400,
+          "pct": 33
+        },
+        {
+          "label": "Republican",
+          "count": 158400,
+          "pct": 33
+        },
+        {
+          "label": "Other / No Party",
+          "count": 163200,
+          "pct": 34
+        }
+      ],
+      "previousResult": {
+        "year": 2024,
+        "seat": "U.S. House — IA-01",
+        "winner": {
+          "name": "Mariannette Miller-Meeks (R)",
+          "pct": 50,
+          "votes": 168000
+        },
+        "runnerUp": {
+          "name": "Christina Bohannan (D)",
+          "pct": 49.7,
+          "votes": 167000
+        },
+        "turnoutPct": 68.2
+      }
     },
-    "UPDATES": [],
-    "CONFLICTS": [],
+    "SOURCES": {
+      "src-ia-sos-primary": {
+        "id": "src-ia-sos-primary",
+        "name": "Iowa Secretary of State — Primary Election",
+        "short": "IA SOS Primary",
+        "url": "https://sos.iowa.gov/primary-election",
+        "publisher": "Iowa Secretary of State — Paul D. Pate",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-05-27",
+        "lastVerified": "2026-05-27",
+        "confidence": "high"
+      },
+      "src-ia-sos-register": {
+        "id": "src-ia-sos-register",
+        "name": "Iowa Secretary of State — Voter Registration",
+        "short": "IA SOS Register",
+        "url": "https://sos.iowa.gov/voters/voter-registration",
+        "publisher": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-05-27",
+        "lastVerified": "2026-05-27",
+        "confidence": "high"
+      },
+      "src-ia-sos-absentee": {
+        "id": "src-ia-sos-absentee",
+        "name": "Iowa Secretary of State — Absentee Voting",
+        "short": "IA SOS Absentee",
+        "url": "https://sos.iowa.gov/voters/absentee-voting",
+        "publisher": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-05-27",
+        "lastVerified": "2026-05-27",
+        "confidence": "high"
+      },
+      "src-ia-voter-ready": {
+        "id": "src-ia-voter-ready",
+        "name": "Voter Ready Iowa — Official Voter Guide",
+        "short": "Voter Ready IA",
+        "url": "https://voterready.iowa.gov",
+        "publisher": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-05-27",
+        "lastVerified": "2026-05-27",
+        "confidence": "high"
+      },
+      "src-ia-statutes": {
+        "id": "src-ia-statutes",
+        "name": "Iowa Code — Title IX Elections",
+        "short": "Iowa Code Elections",
+        "url": "https://www.legis.iowa.gov/law/iowaCode/chapters?title=IX",
+        "publisher": "Iowa Legislature",
+        "sourceType": "statutory",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-05-27",
+        "lastVerified": "2026-05-27",
+        "confidence": "high"
+      },
+      "src-ia-hf928": {
+        "id": "src-ia-hf928",
+        "name": "Iowa HF 928 — Recount Uniformity Law (2025)",
+        "short": "IA HF 928 Recount",
+        "url": "https://www.iowapublicradio.org/state-government-news/2025-04-15/senate-bill-changes-iowa-election-recount-process",
+        "publisher": "Iowa Legislature / Iowa Public Radio coverage",
+        "sourceType": "statutory",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-05-27",
+        "lastVerified": "2026-05-27",
+        "confidence": "high"
+      },
+      "src-ia-hf954": {
+        "id": "src-ia-hf954",
+        "name": "Iowa HF 954 — Citizenship Verification & Election Standardization (2025)",
+        "short": "IA HF 954",
+        "url": "https://www.sos.iowa.gov/news-resources/secretary-pate-praises-new-election-laws-strengthening-iowas-election-integrity",
+        "publisher": "Iowa Secretary of State",
+        "sourceType": "statutory",
+        "hierarchyLevel": 1,
+        "dateAccessed": "2026-05-27",
+        "lastVerified": "2026-05-27",
+        "confidence": "high"
+      },
+      "src-ballotpedia-ia01": {
+        "id": "src-ballotpedia-ia01",
+        "name": "Ballotpedia — Iowa's 1st Congressional District",
+        "short": "Ballotpedia IA-01",
+        "url": "https://ballotpedia.org/Iowa's_1st_Congressional_District",
+        "publisher": "Ballotpedia",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-05-27",
+        "lastVerified": "2026-05-27",
+        "confidence": "medium"
+      },
+      "src-scott-auditor": {
+        "id": "src-scott-auditor",
+        "name": "Scott County Auditor — Elections",
+        "short": "Scott County Elections",
+        "url": "https://elections.scottcountyiowa.gov",
+        "publisher": "Scott County Auditor",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-05-27",
+        "lastVerified": "2026-05-27",
+        "confidence": "high"
+      },
+      "src-johnson-auditor": {
+        "id": "src-johnson-auditor",
+        "name": "Johnson County Auditor — Elections",
+        "short": "Johnson County Elections",
+        "url": "https://www.johnson-county.com/dept_auditor.aspx",
+        "publisher": "Johnson County Auditor",
+        "sourceType": "official-county",
+        "hierarchyLevel": 2,
+        "dateAccessed": "2026-05-27",
+        "lastVerified": "2026-05-27",
+        "confidence": "high"
+      },
+      "src-ipr-ia01": {
+        "id": "src-ipr-ia01",
+        "name": "Iowa Public Radio — 1st Congressional District",
+        "short": "Iowa Public Radio IA-01",
+        "url": "https://www.iowapublicradio.org/tags/1st-congressional-district",
+        "publisher": "Iowa Public Radio",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-05-27",
+        "lastVerified": "2026-05-27",
+        "confidence": "medium"
+      },
+      "src-kcrg": {
+        "id": "src-kcrg",
+        "name": "KCRG-TV9 — Iowa Political News",
+        "short": "KCRG",
+        "url": "https://www.kcrg.com",
+        "publisher": "KCRG-TV9",
+        "sourceType": "news",
+        "hierarchyLevel": 4,
+        "dateAccessed": "2026-05-27",
+        "lastVerified": "2026-05-27",
+        "confidence": "medium"
+      },
+      "src-brennan": {
+        "id": "src-brennan",
+        "name": "Brennan Center — 2025 State Voting Laws Roundup",
+        "short": "Brennan Center 2025",
+        "url": "https://www.brennancenter.org/our-work/research-reports/state-voting-laws-roundup-2025-review",
+        "publisher": "Brennan Center for Justice",
+        "sourceType": "civic-nonprofit",
+        "hierarchyLevel": 3,
+        "dateAccessed": "2026-05-27",
+        "lastVerified": "2026-05-27",
+        "confidence": "medium"
+      }
+    },
+    "ELECTION_EVENTS": [
+      {
+        "id": "ev-primary-date",
+        "electionType": "primary",
+        "milestone": "Primary election day",
+        "date": "2026-06-02",
+        "significance": "Iowa 2026 primary election. Polls open 7:00 AM – 8:00 PM Central Time. Iowa is a closed primary — voters must be registered with a party.",
+        "governingAuthority": "Iowa Secretary of State",
+        "status": "confirmed",
+        "sourceIds": [
+          "src-ia-sos-primary",
+          "src-ia-voter-ready"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "ev-primary-reg-deadline",
+        "electionType": "primary",
+        "milestone": "Voter registration deadline",
+        "date": "2026-05-18",
+        "significance": "Pre-registration deadline for June 2 primary (15 days before election, by 5:00 PM CT). Same-day registration available May 19 through June 2 with photo ID and proof of residence.",
+        "governingAuthority": "Iowa Secretary of State",
+        "status": "confirmed",
+        "sourceIds": [
+          "src-ia-sos-register",
+          "src-ia-voter-ready"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "ev-primary-absentee-request",
+        "electionType": "primary",
+        "milestone": "Absentee ballot request deadline",
+        "date": "2026-05-18",
+        "significance": "Deadline for mailed absentee ballot requests to reach the county auditor by 5:00 PM CT. In-person absentee voting available through June 1.",
+        "governingAuthority": "Iowa Secretary of State",
+        "status": "confirmed",
+        "sourceIds": [
+          "src-ia-sos-absentee",
+          "src-ia-voter-ready"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "ev-primary-receipt",
+        "electionType": "primary",
+        "milestone": "Absentee ballot receipt deadline",
+        "date": "2026-06-02",
+        "significance": "Absentee ballots must be received by the county auditor by 8:00 PM CT on election day. Postmarks do not count.",
+        "governingAuthority": "Iowa Secretary of State",
+        "status": "confirmed",
+        "sourceIds": [
+          "src-ia-sos-absentee",
+          "src-ia-voter-ready"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "ev-general-date",
+        "electionType": "general",
+        "milestone": "General election day",
+        "date": "2026-11-03",
+        "significance": "Iowa 2026 general election. Polls open 7:00 AM – 8:00 PM Central Time.",
+        "governingAuthority": "Iowa Secretary of State",
+        "status": "confirmed",
+        "sourceIds": [
+          "src-ia-sos-primary"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "ev-general-reg-deadline",
+        "electionType": "general",
+        "milestone": "Voter registration deadline",
+        "date": "2026-10-19",
+        "significance": "Pre-registration deadline for November 3 general election (15 days before, by 5:00 PM CT). Same-day registration available Oct 20 through Nov 3 with proof of ID and residence.",
+        "governingAuthority": "Iowa Secretary of State",
+        "status": "confirmed",
+        "sourceIds": [
+          "src-ia-sos-register"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "ev-general-absentee-request",
+        "electionType": "general",
+        "milestone": "Absentee ballot request deadline",
+        "date": "2026-10-19",
+        "significance": "Deadline for mailed absentee ballot requests to reach the county auditor by 5:00 PM CT. In-person absentee voting available through November 2.",
+        "governingAuthority": "Iowa Secretary of State",
+        "status": "confirmed",
+        "sourceIds": [
+          "src-ia-sos-absentee"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "ev-general-receipt",
+        "electionType": "general",
+        "milestone": "Absentee ballot receipt deadline",
+        "date": "2026-11-03",
+        "significance": "Absentee ballots must be received by the county auditor by 8:00 PM CT on election day. Postmarks do not count.",
+        "governingAuthority": "Iowa Secretary of State",
+        "status": "confirmed",
+        "sourceIds": [
+          "src-ia-sos-absentee"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "ev-closed-primary-watch",
+        "electionType": "primary",
+        "milestone": "Closed primary party registration rule",
+        "date": "2026-06-02",
+        "significance": "Iowa holds a closed primary. Voters must be registered with a party to participate. Independents may change party registration on election day at the polls.",
+        "governingAuthority": "Iowa Secretary of State",
+        "status": "confirmed",
+        "sourceIds": [
+          "src-scott-auditor",
+          "src-ia-voter-ready"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      }
+    ],
+    "RULES": [
+      {
+        "id": "rule-ia01-registration",
+        "topic": "Registration requirements",
+        "currentRule": "Online, in person, or by mail. Must be a U.S. citizen, Iowa resident, 18+ by election day. Pre-registration deadline is 15 days before the election. Same-day registration is available through election day with photo ID and proof of residence.",
+        "status": "active",
+        "whyItMatters": "Determines who can vote in IA-01. Voters in all 20 counties must register with their county auditor — Scott (Davenport), Johnson (Iowa City), and others.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-sos-register",
+          "src-ia-voter-ready"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27",
+        "detail": "Primary pre-reg deadline: May 18, 2026 at 5 PM. General pre-reg deadline: October 19, 2026 at 5 PM. Same-day registration available with photo ID + proof of current address."
+      },
+      {
+        "id": "rule-ia01-citizenship",
+        "topic": "Citizenship verification",
+        "currentRule": "Iowa HF 954 (signed June 2025) strengthens citizenship verification at voter registration — cross-referencing DOT noncitizen ID files. Registrants flagged as potential non-citizens are placed in 'unconfirmed' status; they must provide evidence of citizenship to vote a full ballot.",
+        "status": "watch",
+        "whyItMatters": "New 2025 law adds an active citizenship cross-check at registration. Voters with 'unconfirmed' status may need to provide documentation before casting a full ballot.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-hf954",
+          "src-ia-sos-register"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27",
+        "needsReview": true,
+        "detail": "Iowa HF 954 took effect in 2025. Monitor for county auditor implementation — especially in high-population counties like Scott and Johnson."
+      },
+      {
+        "id": "rule-ia01-voter-id",
+        "topic": "Voter ID at the polls",
+        "currentRule": "Iowa requires photo ID to vote in person. Acceptable IDs: Iowa driver's license, Iowa non-operator ID, U.S. passport, military/veteran ID, tribal ID, or Iowa Voter ID card (must be signed). ID must not be expired more than 90 days for driver's licenses.",
+        "status": "active",
+        "whyItMatters": "Voters without a qualifying ID will need another registered voter in the same precinct to attest to their identity, or they may cast a provisional ballot.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-voter-ready",
+          "src-ia-sos-register"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27",
+        "detail": "Iowa Voter ID cards are issued automatically to registered voters who lack an Iowa driver's license or non-operator ID. Any voter may request one from their county auditor."
+      },
+      {
+        "id": "rule-ia01-absentee",
+        "topic": "Absentee (mail) voting",
+        "currentRule": "Any registered voter may request an absentee ballot — no excuse required. Request must include Iowa driver's license number, non-operator ID number, voter ID/verification number, or 4-digit PIN from voter ID card.",
+        "status": "active",
+        "whyItMatters": "Absentee voting is widely used in IA-01 counties. Requests must be submitted by the county auditor deadline; ballots must be received — not postmarked — by 8 PM on election day.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-sos-absentee",
+          "src-ia-voter-ready"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "rule-ia01-absentee-request-deadline",
+        "topic": "Absentee request deadline",
+        "currentRule": "Mailed absentee ballot requests must be received by the county auditor by 5:00 PM, 15 days before the election. Primary deadline: May 18, 2026. General deadline: October 19, 2026. In-person requests may be made through the day before the election.",
+        "status": "active",
+        "whyItMatters": "Late mailed requests are rejected. Voters who miss the mail deadline may still request an absentee ballot in person at the county auditor's office through the day before the election.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-sos-absentee",
+          "src-ia-voter-ready"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "rule-ia01-early-voting",
+        "topic": "Early (in-person absentee) voting",
+        "currentRule": "In-person absentee voting begins 20 days before the election at each county auditor's office. Primary early voting window: May 13 – June 1, 2026. General window: October 14 – November 2, 2026.",
+        "status": "active",
+        "whyItMatters": "Iowa's early voting mechanism is the 'in-person absentee' system — voters visit the county auditor's office, request and cast their ballot in one step.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-sos-absentee",
+          "src-ia-voter-ready"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "rule-ia01-polling-hours",
+        "topic": "Polling place hours",
+        "currentRule": "Polls are open 7:00 AM to 8:00 PM Central Time on election day. Any voter in line at 8:00 PM is entitled to vote. Voters must go to their assigned precinct — Iowa does not use open vote centers.",
+        "status": "active",
+        "whyItMatters": "IA-01 counties use precinct-based voting. Voting at the wrong precinct results in a provisional ballot that may not count for all races.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-voter-ready",
+          "src-scott-auditor"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "rule-ia01-closed-primary",
+        "topic": "Closed primary / party registration",
+        "currentRule": "Iowa holds a closed primary — voters must be registered with a party to vote in that party's primary. Independents and unaffiliated voters must declare a party affiliation to participate. Party registration can be changed on election day.",
+        "status": "active",
+        "whyItMatters": "Unaffiliated voters who arrive at the polls cannot vote in either party's primary without first declaring a party. They may change party on election day at the polling place.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-scott-auditor",
+          "src-ia-sos-register"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "rule-ia01-ballot-return",
+        "topic": "Absentee ballot return rules",
+        "currentRule": "Absentee ballots must be physically received by the county auditor by 8:00 PM on election day. Postmarks do not count. Primary receipt deadline: June 2, 2026 at 8 PM. General: November 3, 2026 at 8 PM.",
+        "status": "active",
+        "whyItMatters": "Most common cause of absentee ballot rejection in Iowa. Mail transit time in rural IA-01 counties can be unreliable — return by drop-off at the county auditor to be safe.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-sos-absentee",
+          "src-ia-voter-ready"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27",
+        "detail": "Iowa Code § 53. Ballots may be returned in person to the county auditor by any person authorized by the voter, including a family member."
+      },
+      {
+        "id": "rule-ia01-ballot-rejection",
+        "topic": "Ballot rejection",
+        "currentRule": "Common rejection causes: late receipt, missing or invalid voter verification number on request form, signature mismatch, voter not registered at address on file.",
+        "status": "active",
+        "whyItMatters": "Rejected absentee ballots are not counted. Iowa does not have a broad cure process comparable to other states — voters should verify receipt before election day.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-sos-absentee"
+        ],
+        "confidence": "medium",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "rule-ia01-provisional",
+        "topic": "Provisional ballots",
+        "currentRule": "Voters who lack required ID, are not in the precinct roster, or whose registration is in 'unconfirmed' or 'inactive' status may cast a provisional ballot. Provisional ballots are counted after identity and eligibility are confirmed.",
+        "status": "active",
+        "whyItMatters": "Affects IA-01 voters who lack ID, have recently moved, or face registration issues under the new HF 954 citizenship-verification rules.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-voter-ready",
+          "src-ia-hf954"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "rule-ia01-canvass",
+        "topic": "Canvass and certification",
+        "currentRule": "County canvass is held within 10 days after the election. State canvass and certification occurs not later than 27 days after election day (Iowa Code § 50.38).",
+        "status": "active",
+        "whyItMatters": "Determines when IA-01 race results become official. The Secretary of State presents vote abstracts to the Board of State Canvassers, which certifies results.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-statutes"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27",
+        "detail": "General election state canvass: not later than December 1, 2026 (Iowa Code § 50.38(c))."
+      },
+      {
+        "id": "rule-ia01-recount",
+        "topic": "Recount rules",
+        "currentRule": "Iowa HF 928 (2025) reformed the recount process. For federal offices, a recount may be requested if the margin is less than 0.15%. Recounts must use election-day tabulation machines, cover all precincts, and be conducted by county auditors with bipartisan boards. Secretary of State may take over a recount if board is not following the law.",
+        "status": "watch",
+        "whyItMatters": "Highly relevant for IA-01: Rep. Miller-Meeks won by fewer than 6 votes in 2020 and by less than 1% in 2024. The new 0.15% threshold and SOS takeover authority are active for 2026.",
+        "governingLevel": "statewide",
+        "sourceIds": [
+          "src-ia-hf928",
+          "src-ia-statutes"
+        ],
+        "confidence": "high",
+        "lastVerified": "2026-05-27",
+        "needsReview": true,
+        "detail": "HF 928 signed June 2, 2025. Recount requests may be filed within 3 days of county canvass. State covers cost if margin is within 0.15% for federal races. Completion deadline: 18 days after county canvass."
+      }
+    ],
+    "RESOURCES": [
+      {
+        "id": "res-ia01-voter-ready",
+        "label": "Voter Ready Iowa — Official voter guide",
+        "description": "Iowa Secretary of State's official voter guide with registration, ID rules, absentee voting, and 2026 primary dates.",
+        "url": "https://voterready.iowa.gov",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-voter-ready",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "res-ia01-register",
+        "label": "Register to vote in Iowa",
+        "description": "Online voter registration through the Iowa DOT portal, or download the paper form for county auditor submission.",
+        "url": "https://sos.iowa.gov/voters/voter-registration",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-sos-register",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "res-ia01-absentee",
+        "label": "Absentee voting information",
+        "description": "Official information on requesting and returning absentee ballots, including deadlines and the voter verification number requirement.",
+        "url": "https://sos.iowa.gov/voters/absentee-voting",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-sos-absentee",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "res-ia01-primary-dates",
+        "label": "2026 Primary election dates & deadlines",
+        "description": "Official Iowa SOS calendar for the June 2, 2026 primary — filing periods, registration deadlines, and absentee windows.",
+        "url": "https://sos.iowa.gov/primary-election",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-sos-primary",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "res-ia01-scott",
+        "label": "Scott County Auditor — Elections (Davenport)",
+        "description": "Scott County election information including polling places, absentee ballot requests, and voter registration for Davenport and surrounding communities.",
+        "url": "https://elections.scottcountyiowa.gov",
+        "governingAuthority": "Scott County Auditor",
+        "sourceType": "official-county",
+        "sourceId": "src-scott-auditor",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "res-ia01-johnson",
+        "label": "Johnson County Auditor — Elections (Iowa City)",
+        "description": "Johnson County election information including registration, absentee ballots, and polling places for Iowa City and surrounding communities.",
+        "url": "https://www.johnson-county.com/dept_auditor.aspx",
+        "governingAuthority": "Johnson County Auditor",
+        "sourceType": "official-county",
+        "sourceId": "src-johnson-auditor",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "res-ia01-statutes",
+        "label": "Iowa Code — Title IX (Elections)",
+        "description": "Statutory text for Iowa election law — registration, absentee voting, canvass, and recount procedures.",
+        "url": "https://www.legis.iowa.gov/law/iowaCode/chapters?title=IX",
+        "governingAuthority": "Iowa Legislature",
+        "sourceType": "statutory",
+        "sourceId": "src-ia-statutes",
+        "lastVerified": "2026-05-27"
+      },
+      {
+        "id": "res-ia01-hf928",
+        "label": "Iowa HF 928 — Recount reform (2025)",
+        "description": "New recount law establishing 0.15% threshold for federal races, bipartisan recount boards, and SOS oversight authority. Effective July 1, 2025.",
+        "url": "https://www.iowapublicradio.org/state-government-news/2025-04-15/senate-bill-changes-iowa-election-recount-process",
+        "governingAuthority": "Iowa Legislature",
+        "sourceType": "statutory",
+        "sourceId": "src-ia-hf928",
+        "lastVerified": "2026-05-27"
+      }
+    ],
+    "UPDATES": [
+      {
+        "id": "upd-ia01-001",
+        "title": "HF 928 recount reform now in effect for 2026",
+        "fieldChanged": "Recount eligibility threshold for federal offices",
+        "oldValue": "No automatic recount; candidate-requested with no statutory margin threshold",
+        "newValue": "Recount may be requested if margin < 0.15% for federal races (HF 928, eff. July 1, 2025)",
+        "sourceIds": [
+          "src-ia-hf928"
+        ],
+        "detectedAt": "2026-05-27T05:00:00Z",
+        "severity": "high",
+        "reviewState": "new",
+        "visibility": "ready_for_public_review"
+      },
+      {
+        "id": "upd-ia01-002",
+        "title": "HF 954 citizenship verification active at registration",
+        "fieldChanged": "Voter registration — citizenship check",
+        "oldValue": "Self-attestation only",
+        "newValue": "Cross-reference with DOT noncitizen ID files; unconfirmed-status voters must provide documentation (HF 954, eff. 2025)",
+        "sourceIds": [
+          "src-ia-hf954"
+        ],
+        "detectedAt": "2026-05-27T05:00:00Z",
+        "severity": "medium",
+        "reviewState": "new",
+        "visibility": "ready_for_public_review"
+      }
+    ],
+    "CONFLICTS": [
+      {
+        "id": "conflict-ia01-001",
+        "factInQuestion": "Same-day registration: which ID documents qualify",
+        "sourceAId": "src-ia-voter-ready",
+        "sourceAClaim": "Official guide states photo ID + proof of current address required for same-day registration.",
+        "sourceBId": "src-scott-auditor",
+        "sourceBClaim": "County FAQ notes that proof of residence may be satisfied by various document types; exact list should be confirmed with the county auditor.",
+        "whyItMatters": "Voters attempting to register on election day in IA-01 need to know exactly what documents to bring.",
+        "suggestedReviewAction": "Verify the specific same-day registration document list with Scott and Johnson county auditors before the June 2 primary.",
+        "severity": "medium",
+        "status": "unresolved",
+        "createdAt": "2026-05-27T05:00:00Z"
+      }
+    ],
     "NEWS": [
       {
-        "headline": "Henry County Supervisors to Certify Primary Election Results Today",
-        "sourceName": "KILJ Radio (Mount Pleasant, Iowa)",
-        "url": "https://kilj.com/henry-county-supervisors-to-certify-primary-election-results-today/",
-        "publishedAt": "2026-06-09",
-        "relevanceSummary": "Henry County (Des Moines County neighbor in the IA-01 corridor) held its official county canvass of the June 2 primary at the Mount Pleasant courthouse on June 9, reviewing precinct returns, absentee ballots, and provisional ballots before forwarding certified totals to the State of Iowa. This is part of the statewide post-primary certification process that governs all IA-01 county races and the congressional primary results.",
-        "tag": "certification",
-        "id": "news-2026-0610-ia-01-01",
+        "id": "news-ia01-006",
+        "headline": "Iowa primary election day: Miller-Meeks faces Pautsch, Bohannan faces Terrell",
+        "sourceName": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/live-results-iowa-midterm-primaries",
+        "publishedAt": "2026-06-02",
+        "relevanceSummary": "Polls open June 2 (7 AM–8 PM CT) for Iowa's primary. Miller-Meeks (R) faces David Pautsch, who won 44% in the 2024 primary. Bohannan (D) faces first-time candidate Travis Terrell. Winners advance to the November 3 general election in this Cook-rated toss-up.",
+        "tag": "ballot-access",
         "reviewState": "new"
       },
       {
-        "headline": "Black Hawk County Post-Election Audit Confirms Primary Election Results",
-        "sourceName": "Black Hawk County, Iowa (official government news release)",
-        "url": "https://www.blackhawkcounty.iowa.gov/m/newsflash/home/detail/707",
-        "publishedAt": "2026-06-04",
-        "relevanceSummary": "Iowa law requires the Secretary of State to randomly select one precinct per county for a mandatory hand-count audit the day after every election; Black Hawk County's June 4 audit found a perfect match between hand counts and machine totals, confirming the accuracy of results. Though Black Hawk County sits in IA-02, the same statewide audit protocol applies to every IA-01 county \u2014 Scott, Johnson, Linn, Des Moines, Wapello, and Muscatine \u2014 giving IA-01 voters independent verification of their primary results.",
-        "tag": "administration",
-        "id": "news-2026-0610-ia-01-02",
+        "id": "news-ia01-001",
+        "headline": "Democrats are eyeing Iowa's 1st Congressional District as a seat that can be flipped",
+        "sourceName": "KCRG-TV9",
+        "url": "https://www.kcrg.com/2026/05/18/two-democrats-vie-chance-challenge-miller-meeks-iowas-1st-congressional-district/",
+        "publishedAt": "2026-05-18",
+        "relevanceSummary": "Democrats see IA-01 as a key flip opportunity. Christina Bohannan (former state rep, 2022/2024 nominee) faces Travis Terrell (healthcare worker) in the Democratic primary. Republican incumbent Miller-Meeks faces primary challenger David Pautsch. Cook Political Report rates IA-01 a toss-up.",
+        "tag": "ballot-access",
         "reviewState": "new"
       },
       {
-        "headline": "Miller-Meeks and Bohannan Set for Third Consecutive Rematch in Iowa's 1st District",
+        "id": "news-ia01-002",
+        "headline": "Miller-Meeks faces primary challenger David Pautsch in June Republican contest",
+        "sourceName": "KCRG-TV9",
+        "url": "https://www.kcrg.com/2026/05/19/congresswoman-mariannette-miller-meeks-faces-challenger-david-pautsch-republican-primary/",
+        "publishedAt": "2026-05-19",
+        "relevanceSummary": "Rep. Mariannette Miller-Meeks faces a primary challenge from David Pautsch, a ministry founder and MAGA-aligned Republican from Davenport who also ran in 2024. Miller-Meeks won the 2024 general by less than 1 point — the narrowest margin of any House Republican that cycle.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-003",
+        "headline": "Independent candidate Michael Bridgford enters 'toss-up' race for Iowa's 1st Congressional District",
         "sourceName": "Iowa Public Radio",
-        "url": "https://www.iowapublicradio.org/political-news/2026-06-02/2026-iowa-primary-election-results",
-        "publishedAt": "2026-06-03",
-        "relevanceSummary": "Incumbent Republican Mariannette Miller-Meeks defeated challenger David Pautsch by more than 40 percentage points in the IA-01 Republican primary, while Democrat Christina Bohannan beat Travis Terrell with over 80 percent of the vote, setting up a November general election rematch for a third consecutive cycle. Independent Michael Bridgford is also running; the Cook Political Report rates the race a toss-up, and both candidates entered the post-primary period with over $4 million cash on hand.",
-        "tag": "primary",
-        "id": "news-2026-0610-ia-01-03",
+        "url": "https://www.iowapublicradio.org/political-news/2026-04-16/independent-candidate-michael-bridgford-1st-congressional-district",
+        "publishedAt": "2026-04-16",
+        "relevanceSummary": "Independent Michael Bridgford (financial advisor, Bettendorf) entered IA-01 to challenge both parties. He is gathering signatures to qualify for the November ballot and plans a 20-county tour. His candidacy adds a third option in a race Cook rates as a toss-up.",
+        "tag": "ballot-access",
         "reviewState": "new"
       },
       {
-        "headline": "Democrat Christina Bohannan to Take on Iowa GOP Rep. Mariannette Miller-Meeks",
-        "sourceName": "CBS News",
-        "url": "https://www.cbsnews.com/news/iowa-1st-congressional-district-democratic-primary-christina-bohannon-miller-meeks/",
-        "publishedAt": "2026-06-03",
-        "relevanceSummary": "CBS News projects Bohannan wins the IA-01 Democratic primary and advances to face Miller-Meeks in November \u2014 their previous contests ended in Miller-Meeks wins by roughly 20,000 votes in 2022 and fewer than 800 votes in 2024, with both finalized only after recounts. The DCCC lists IA-01 as a top House flip target, and the Cook Political Report rates it a toss-up heading into the general election on November 3, 2026.",
-        "tag": "primary",
-        "id": "news-2026-0610-ia-01-04",
-        "reviewState": "new"
-      },
-      {
-        "headline": "2026 Iowa Primary Results for Greater Quad Cities Area",
-        "sourceName": "WVIK Quad Cities NPR",
-        "url": "https://www.wvik.org/wvik-top-stories/2026-06-02/whos-running-in-the-2026-iowa-primaries-for-state-and-local-offices",
-        "publishedAt": "2026-06-03",
-        "relevanceSummary": "In Scott County (Davenport, the largest IA-01 county), over 20,000 voters participated in the June 2 primary at a 16.37% turnout rate; Miller-Meeks took 6,492 Republican votes to Pautsch's 2,760, while Bohannan won 8,601 Democratic votes to Terrell's 1,894. Scott County's Board of Supervisors race also advanced three Republicans and one Democrat toward November, and incumbent state Rep. Ken Croken lost a Davenport Democratic House primary to Adam Peters.",
-        "tag": "primary",
-        "id": "news-2026-0610-ia-01-05",
-        "reviewState": "new"
-      },
-      {
-        "headline": "Attestation Will No Longer Be an Option After July 1, When a New State Law Will Take Effect",
+        "id": "news-ia01-004",
+        "headline": "Iowa recount process gets major overhaul under HF 928",
         "sourceName": "Iowa Public Radio",
-        "url": "https://www.iowapublicradio.org/political-news/2026-06-01/whos-running-in-iowas-primary-your-voter-guide-for-the-june-2-election",
-        "publishedAt": "2026-06-03",
-        "relevanceSummary": "A new Iowa law eliminates the option for a registered neighbor to attest to another voter's identity starting July 1, 2026 \u2014 meaning this option that was available at the June 2 primary will no longer be available at the November 3 general election in IA-01. Voters in the district (including the large student population in Iowa City's Johnson County) who lack a qualifying photo ID must obtain an Iowa Voter ID card from their county auditor before the fall election.",
+        "url": "https://www.iowapublicradio.org/state-government-news/2025-04-15/senate-bill-changes-iowa-election-recount-process",
+        "publishedAt": "2025-04-15",
+        "relevanceSummary": "Iowa's new recount law (HF 928, signed June 2025) sets a 0.15% margin threshold for federal race recounts, requires all-precinct machine recounts, and gives the Secretary of State authority to take over a recount if county boards don't follow the law — highly relevant given IA-01's history of razor-thin margins.",
         "tag": "rule-change",
-        "id": "news-2026-0610-ia-01-06",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-005",
+        "headline": "Iowa bans ranked-choice voting, strengthens citizenship checks under HF 954",
+        "sourceName": "Iowa Secretary of State",
+        "url": "https://sos.iowa.gov/news-resources/secretary-pate-praises-new-election-laws-strengthening-iowas-election-integrity",
+        "publishedAt": "2025-06-02",
+        "relevanceSummary": "Gov. Reynolds signed HF 954 banning ranked-choice voting statewide and requiring citizenship verification at voter registration through DOT database cross-checks. The Brennan Center flagged Iowa's new SOS recount-takeover authority as among 2025's most significant election-interference laws.",
+        "tag": "rule-change",
         "reviewState": "new"
       }
     ],
-    "SOURCES": [],
-    "ELECTION_EVENTS": [],
-    "RULES": [],
-    "RESOURCES": [],
     "LAST_REFRESH": {
-      "id": "run-2026-06-10T22-00-00-ia-01",
-      "startedAt": "2026-06-10T21:59:30.000Z",
-      "completedAt": "2026-06-10T22:00:00Z",
+      "id": "run-2026-05-27-ia01-initial",
+      "startedAt": "2026-06-02T21:00:00Z",
+      "completedAt": "2026-06-02T21:45:00Z",
       "triggerType": "manual",
-      "sourcesChecked": 9,
-      "updatesCreated": 0,
-      "conflictsCreated": 0,
+      "sourcesChecked": 11,
+      "updatesCreated": 2,
+      "conflictsCreated": 1,
       "errors": [],
-      "summary": "IA-01 weekly refresh on 2026-06-10. Status: Iowa primary (held), 8 days post-primary; general Nov 3. Incumbent: Rep. Mariannette Miller-Meeks (R); opponent: Democrat Christina Bohannan \u2014 third rematch. Six new news items added covering the past week (Jun 3-10). IA-01 primary completed June 2 with the third Miller-Meeks vs. Bohannan matchup confirmed for November 3. This week's stories cover canvass / certification activity in the district's counties, a Black Hawk County hand-count audit, and a July 1 elimination of Iowa's attestation option that will affect November voters. Procedural rules and election-event dates unchanged from the bundle baseline; all news items routed to the human-review queue for editor confirmation."
+      "summary": "Initial build May 27–28, 2026. IA-01 is a new district. Primary June 2 — registration and absentee request deadlines (May 18) are past; general election deadlines are the active forward-looking items. Key watches: HF 928 recount reform (0.15% threshold, SOS takeover authority — highly relevant given IA-01's history); HF 954 citizenship verification. IA-01 covers Scott (Davenport) and Johnson (Iowa City) counties. Cook rates the race a toss-up. Miller-Meeks faces GOP primary challenge from Pautsch; Bohannan vs. Terrell on the Democratic side."
     },
-    "NEXT_REFRESH_AT": "2026-06-12T22:00:00Z",
+    "NEXT_REFRESH_AT": "2026-06-02T21:00:00Z",
     "WEEKLY_REPORT": {
-      "id": "wr-2026-w24-ia-01",
-      "periodStart": "2026-06-08",
-      "periodEnd": "2026-06-14",
-      "sourcesChecked": 9,
-      "newUpdates": 0,
-      "conflictsCreated": 0,
+      "id": "wr-ia01-2026-w22",
+      "periodStart": "2026-05-21",
+      "periodEnd": "2026-05-27",
+      "sourcesChecked": 11,
+      "newUpdates": 2,
+      "conflictsCreated": 1,
       "conflictsResolved": 0,
       "deadlinesChanged": 0,
       "rulesChanged": 0,
-      "newsItems": 6,
-      "needsReview": 6,
+      "newsItems": 5,
+      "needsReview": 2,
       "sourceErrors": 0,
-      "summary": "IA-01 primary completed June 2 with the third Miller-Meeks vs. Bohannan matchup confirmed for November 3. This week's stories cover canvass / certification activity in the district's counties, a Black Hawk County hand-count audit, and a July 1 elimination of Iowa's attestation option that will affect November voters.",
-      "generatedAt": "2026-06-10T22:00:00Z"
-    },
-    "districtNumber": "IA-01"
-  },
-  "districtCode": "IA-01"
+      "summary": "Initial build week of May 21–27, 2026. IA-01 dashboard created. Primary June 2 — pre-registration and mail absentee request deadlines (May 18) are past; same-day registration is available through June 2. Key watches: HF 928 recount reform (0.15% for federal races, SOS takeover power) and HF 954 citizenship cross-check at registration. Cook rates IA-01 a toss-up. Primary matchups: Miller-Meeks vs. Pautsch (R); Bohannan vs. Terrell (D); independent Bridgford seeking signatures for November ballot.",
+      "generatedAt": "2026-05-28T04:15:00Z"
+    }
+  }
 }
