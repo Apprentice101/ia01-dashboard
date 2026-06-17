@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-02",
-  "updatedAt": "2026-06-02T21:45:00Z",
-  "exportedAt": "2026-06-15T19:44:33.864Z",
+  "dataAsOf": "2026-06-17",
+  "updatedAt": "2026-06-17T22:40:00Z",
+  "exportedAt": "2026-06-17T23:19:20.699Z",
   "districtCode": "IA-01",
   "data": {
     "DISTRICT": {
@@ -666,6 +666,36 @@
         "severity": "medium",
         "reviewState": "new",
         "visibility": "ready_for_public_review"
+      },
+      {
+        "id": "upd-ia01-003",
+        "title": "Dashboard pivot: primary deadlines past, general-election focus active",
+        "fieldChanged": "Dashboard milestone framing",
+        "oldValue": "KPI cards led with primary registration and absentee deadlines (May 18, June 2)",
+        "newValue": "KPI cards now lead with general-election deadlines (Oct 19 registration, Oct 14 – Nov 2 in-person early voting, Nov 3 Election Day and 8 PM CT ballot receipt). Miller-Meeks (R) vs. Bohannan (D) is the confirmed November 3 rematch.",
+        "sourceIds": [
+          "src-ia-voter-ready",
+          "src-ia-sos-primary"
+        ],
+        "detectedAt": "2026-06-17T22:25:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "ready_for_public_review"
+      },
+      {
+        "id": "upd-ia01-004",
+        "title": "General-election deadlines re-checked; no changes detected",
+        "fieldChanged": "General election 2026 deadlines",
+        "oldValue": "Deadlines confirmed as of 2026-05-27 initial build.",
+        "newValue": "As of the June 17, 2026 refresh, Iowa Secretary of State and Johnson County auditor guidance still list October 19, 2026 (5:00 PM CT) as the pre-registration deadline, October 19, 2026 (5:00 PM CT) as the mailed-absentee-request deadline, October 14 – November 2, 2026 as the in-person early-voting window, and November 3, 2026 at 8:00 PM CT as Election Day and the absentee-ballot receipt deadline. Postmarks do not count. Election-day registration remains available with photo ID and proof of residence.",
+        "sourceIds": [
+          "src-ia-sos-primary",
+          "src-ia-voter-ready"
+        ],
+        "detectedAt": "2026-06-17T22:30:00Z",
+        "severity": "low",
+        "reviewState": "new",
+        "visibility": "ready_for_public_review"
       }
     ],
     "CONFLICTS": [
@@ -746,32 +776,32 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-05-27-ia01-initial",
-      "startedAt": "2026-06-02T21:00:00Z",
-      "completedAt": "2026-06-02T21:45:00Z",
+      "id": "run-2026-06-17-ia01-weekly",
+      "startedAt": "2026-06-17T22:25:00Z",
+      "completedAt": "2026-06-17T22:40:00Z",
       "triggerType": "manual",
       "sourcesChecked": 11,
       "updatesCreated": 2,
-      "conflictsCreated": 1,
+      "conflictsCreated": 0,
       "errors": [],
-      "summary": "Initial build May 27–28, 2026. IA-01 is a new district. Primary June 2 — registration and absentee request deadlines (May 18) are past; general election deadlines are the active forward-looking items. Key watches: HF 928 recount reform (0.15% threshold, SOS takeover authority — highly relevant given IA-01's history); HF 954 citizenship verification. IA-01 covers Scott (Davenport) and Johnson (Iowa City) counties. Cook rates the race a toss-up. Miller-Meeks faces GOP primary challenge from Pautsch; Bohannan vs. Terrell on the Democratic side."
+      "summary": "June 17, 2026 weekly refresh for IA-01. Pivot from primary to general-election framing complete. June 2 primary is past — Miller-Meeks (R) defeated Pautsch on the Republican side and Bohannan (D) defeated Terrell on the Democratic side; Miller-Meeks vs. Bohannan is the confirmed November 3 rematch (Cook: toss-up). Re-checked Iowa SOS and Johnson County calendars: general-election deadlines unchanged (Oct. 19 registration, Oct. 19 mail-absentee request, Oct. 14 – Nov. 2 in-person early voting, Nov. 3 Election Day and 8:00 PM CT receipt; postmarks do not count). Structural watch items unchanged — HF 928 (0.15% federal recount threshold, SOS takeover authority — highly relevant given IA-01's six-vote 2020 history) and HF 954 (DOT/SAVE citizenship cross-check) both remain on 'watch' with needsReview:true. conflict-ia01-001 (same-day registration document list) remains open pending county confirmation. No confidence flips — owner verifies before publish."
     },
-    "NEXT_REFRESH_AT": "2026-06-02T21:00:00Z",
+    "NEXT_REFRESH_AT": "2026-06-24T22:25:00Z",
     "WEEKLY_REPORT": {
-      "id": "wr-ia01-2026-w22",
-      "periodStart": "2026-05-21",
-      "periodEnd": "2026-05-27",
+      "id": "wr-ia01-2026-w25",
+      "periodStart": "2026-06-11",
+      "periodEnd": "2026-06-17",
       "sourcesChecked": 11,
       "newUpdates": 2,
-      "conflictsCreated": 1,
+      "conflictsCreated": 0,
       "conflictsResolved": 0,
       "deadlinesChanged": 0,
       "rulesChanged": 0,
-      "newsItems": 5,
+      "newsItems": 0,
       "needsReview": 2,
       "sourceErrors": 0,
-      "summary": "Initial build week of May 21–27, 2026. IA-01 dashboard created. Primary June 2 — pre-registration and mail absentee request deadlines (May 18) are past; same-day registration is available through June 2. Key watches: HF 928 recount reform (0.15% for federal races, SOS takeover power) and HF 954 citizenship cross-check at registration. Cook rates IA-01 a toss-up. Primary matchups: Miller-Meeks vs. Pautsch (R); Bohannan vs. Terrell (D); independent Bridgford seeking signatures for November ballot.",
-      "generatedAt": "2026-05-28T04:15:00Z"
+      "summary": "Weekly refresh for week of June 11–17, 2026. Dashboard narrative pivoted from pre-primary deadlines to post-primary, general-election focus. June 2 primary is past — Miller-Meeks (R) defeated Pautsch; Bohannan (D) defeated Terrell. The Miller-Meeks vs. Bohannan rematch is confirmed for November 3 (Cook: toss-up). Re-checked Iowa SOS and Johnson County calendars — general-election deadlines unchanged (Oct. 19 registration, Oct. 19 mail-absentee request, Oct. 14 – Nov. 2 early voting, Nov. 3 Election Day and 8:00 PM CT receipt). Watch items unchanged: HF 928 recount reform (0.15% federal threshold; SOS takeover authority) and HF 954 citizenship verification both still on 'watch' with needsReview:true. conflict-ia01-001 (same-day registration document list for Scott and Johnson counties) remains open. No confidence flips — all rules await owner verification before publish.",
+      "generatedAt": "2026-06-17T22:40:00Z"
     }
   }
 }
