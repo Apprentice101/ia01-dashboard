@@ -2,12 +2,12 @@
   "version": "1",
   "dataAsOf": "2026-06-17",
   "updatedAt": "2026-06-17T22:40:00Z",
-  "exportedAt": "2026-06-17T23:56:31.599Z",
-  "districtCode": "IA-01",
+  "exportedAt": "2026-06-26T20:22:40.374Z",
+  "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
       "id": "ia-01",
-      "districtNumber": "IA-01",
+      "districtNumber": "ia-01",
       "districtName": "Iowa's 1st Congressional District",
       "state": "Iowa",
       "counties": [
