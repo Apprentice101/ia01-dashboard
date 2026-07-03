@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-06-17",
-  "updatedAt": "2026-06-17T22:40:00Z",
-  "exportedAt": "2026-07-03T00:02:48.043Z",
+  "dataAsOf": "2026-07-03",
+  "updatedAt": "2026-07-03T00:24:47.651Z",
+  "exportedAt": "2026-07-03T00:36:34.964Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -97,7 +97,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-05-27",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-ia-sos-absentee": {
@@ -109,7 +109,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-05-27",
+        "lastVerified": "2026-07-03",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -802,17 +802,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-06-17-ia01-weekly",
-      "startedAt": "2026-06-17T22:25:00Z",
-      "completedAt": "2026-06-17T22:40:00Z",
-      "triggerType": "manual",
-      "sourcesChecked": 11,
-      "updatesCreated": 2,
+      "id": "run-2026-07-03-ia01-auto",
+      "startedAt": "2026-07-03T00:23:47.770Z",
+      "completedAt": "2026-07-03T00:24:47.651Z",
+      "triggerType": "scheduled",
+      "sourcesChecked": 15,
+      "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "June 17, 2026 weekly refresh for IA-01. Pivot from primary to general-election framing complete. June 2 primary is past — Miller-Meeks (R) defeated Pautsch on the Republican side and Bohannan (D) defeated Terrell on the Democratic side; Miller-Meeks vs. Bohannan is the confirmed November 3 rematch (Cook: toss-up). Re-checked Iowa SOS and Johnson County calendars: general-election deadlines unchanged (Oct. 19 registration, Oct. 19 mail-absentee request, Oct. 14 – Nov. 2 in-person early voting, Nov. 3 Election Day and 8:00 PM CT receipt; postmarks do not count). Structural watch items unchanged — HF 928 (0.15% federal recount threshold, SOS takeover authority — highly relevant given IA-01's six-vote 2020 history) and HF 954 (DOT/SAVE citizenship cross-check) both remain on 'watch' with needsReview:true. conflict-ia01-001 (same-day registration document list) remains open pending county confirmation. No confidence flips — owner verifies before publish."
+      "summary": "Automated refresh completed 2026-07-03 for IA-01. Sources checked: 15. LLM verifications: 17. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-06-24T22:25:00Z",
+    "NEXT_REFRESH_AT": "2026-07-10T00:24:47.651Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
