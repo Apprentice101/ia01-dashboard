@@ -2,7 +2,7 @@
   "version": "1",
   "dataAsOf": "2026-07-08",
   "updatedAt": "2026-07-08T19:36:47.711Z",
-  "exportedAt": "2026-07-08T20:34:43.478Z",
+  "exportedAt": "2026-07-09T17:03:33.493Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -584,24 +584,64 @@
     ],
     "RESOURCES": [
       {
-        "id": "res-ia01-voter-ready",
-        "label": "Voter Ready Iowa — Official voter guide",
+        "id": "res-register",
+        "label": "Register to vote",
         "description": "Iowa Secretary of State's official voter guide with registration, ID rules, absentee voting, and 2026 primary dates.",
         "url": "https://voterready.iowa.gov",
         "governingAuthority": "Iowa Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-ia-voter-ready",
-        "lastVerified": "2026-05-27"
+        "lastVerified": "2026-07-08"
       },
       {
-        "id": "res-ia01-register",
-        "label": "Register to vote in Iowa",
-        "description": "Online voter registration through the Iowa DOT portal, or download the paper form for county auditor submission.",
-        "url": "https://sos.iowa.gov/voters/voter-registration",
+        "id": "res-locations",
+        "label": "Find voting locations",
+        "description": "Iowa polling-place lookup by address.",
+        "url": "https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
         "governingAuthority": "Iowa Secretary of State",
         "sourceType": "official-state",
-        "sourceId": "src-ia-sos-register",
-        "lastVerified": "2026-05-27"
+        "sourceId": "src-ia-sos",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-ballot-box",
+        "label": "Find ballot boxes",
+        "description": "Information on absentee ballot return options, including the official ballot drop-box location and satellite voting sites.",
+        "url": "https://elections.scottcountyiowa.gov/elections/info/2026_primary_election_2026_06_02/",
+        "governingAuthority": "Scott County Auditor's Office",
+        "sourceType": "official-county",
+        "sourceId": "src-ia01-county",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-check-reg",
+        "label": "Check registration status",
+        "description": "Confirm your Iowa voter registration status.",
+        "url": "https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-sos",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-track",
+        "label": "Track your ballot",
+        "description": "Track an Iowa absentee ballot.",
+        "url": "https://sos.iowa.gov/track-your-absentee-ballot",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-sos",
+        "lastVerified": "2026-07-08"
+      },
+      {
+        "id": "res-results",
+        "label": "Election results",
+        "description": "Official election results and historical election statistics from the Iowa Secretary of State.",
+        "url": "https://sos.iowa.gov/iowans/election-results-statistics",
+        "governingAuthority": "Iowa Secretary of State",
+        "sourceType": "official-state",
+        "sourceId": "src-ia-sos",
+        "lastVerified": "2026-07-08"
       },
       {
         "id": "res-ia01-absentee",
@@ -611,46 +651,6 @@
         "governingAuthority": "Iowa Secretary of State",
         "sourceType": "official-state",
         "sourceId": "src-ia-sos-absentee",
-        "lastVerified": "2026-05-27"
-      },
-      {
-        "id": "res-ia01-primary-dates",
-        "label": "2026 Primary election dates & deadlines",
-        "description": "Official Iowa SOS calendar for the June 2, 2026 primary — filing periods, registration deadlines, and absentee windows.",
-        "url": "https://sos.iowa.gov/primary-election",
-        "governingAuthority": "Iowa Secretary of State",
-        "sourceType": "official-state",
-        "sourceId": "src-ia-sos-primary",
-        "lastVerified": "2026-05-27"
-      },
-      {
-        "id": "res-ia01-scott",
-        "label": "Scott County Auditor — Elections (Davenport)",
-        "description": "Scott County election information including polling places, absentee ballot requests, and voter registration for Davenport and surrounding communities.",
-        "url": "https://elections.scottcountyiowa.gov",
-        "governingAuthority": "Scott County Auditor",
-        "sourceType": "official-county",
-        "sourceId": "src-scott-auditor",
-        "lastVerified": "2026-05-27"
-      },
-      {
-        "id": "res-ia01-johnson",
-        "label": "Johnson County Auditor — Elections (Iowa City)",
-        "description": "Johnson County election information including registration, absentee ballots, and polling places for Iowa City and surrounding communities.",
-        "url": "https://www.johnson-county.com/dept_auditor.aspx",
-        "governingAuthority": "Johnson County Auditor",
-        "sourceType": "official-county",
-        "sourceId": "src-johnson-auditor",
-        "lastVerified": "2026-05-27"
-      },
-      {
-        "id": "res-ia01-statutes",
-        "label": "Iowa Code — Title IX (Elections)",
-        "description": "Statutory text for Iowa election law — registration, absentee voting, canvass, and recount procedures.",
-        "url": "https://www.legis.iowa.gov/law/iowaCode/chapters?title=IX",
-        "governingAuthority": "Iowa Legislature",
-        "sourceType": "statutory",
-        "sourceId": "src-ia-statutes",
         "lastVerified": "2026-05-27"
       },
       {
