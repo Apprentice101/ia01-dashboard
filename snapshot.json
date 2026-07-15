@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-08",
-  "updatedAt": "2026-07-08T19:36:47.711Z",
-  "exportedAt": "2026-07-09T17:03:33.493Z",
+  "dataAsOf": "2026-07-15",
+  "updatedAt": "2026-07-15T06:18:39.205Z",
+  "exportedAt": "2026-07-15T06:39:15.856Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -73,6 +73,21 @@
           "votes": 167000
         },
         "turnoutPct": 68.2
+      },
+      "newsDiscoveryHints": {
+        "geographicHint": "IA-01 spans 20 southeastern Iowa counties anchored by the Quad Cities (Scott/Davenport) and Iowa City (Johnson); Cedar Rapids and Burlington are secondary population centers.",
+        "preferredOutlets": [
+          "WVIK Quad Cities NPR",
+          "Quad-City Times",
+          "KWQC",
+          "The Gazette (Cedar Rapids)",
+          "Iowa Capital Dispatch",
+          "Iowa Public Radio",
+          "Davenport Votes",
+          "Iowa Down Ballot (Substack)",
+          "Iowa Press",
+          "Votebeat"
+        ]
       }
     },
     "SOURCES": {
@@ -109,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -121,7 +136,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-05-27",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-ia-statutes": {
@@ -169,7 +184,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-05-27",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-ballotpedia-ia01": {
@@ -193,7 +208,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-05-27",
+        "lastVerified": "2026-07-15",
         "confidence": "high"
       },
       "src-johnson-auditor": {
@@ -802,17 +817,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-08-ia01-auto",
-      "startedAt": "2026-07-08T19:36:41.442Z",
-      "completedAt": "2026-07-08T19:36:47.711Z",
+      "id": "run-2026-07-15-ia01-auto",
+      "startedAt": "2026-07-15T06:15:54.545Z",
+      "completedAt": "2026-07-15T06:18:39.205Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 24,
+      "sourcesChecked": 16,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-08 for IA-01. Sources checked: 24. LLM verifications: 26. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-07-15 for IA-01. Sources checked: 16. LLM verifications: 18. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-15T19:36:47.711Z",
+    "NEXT_REFRESH_AT": "2026-07-22T06:18:39.205Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
