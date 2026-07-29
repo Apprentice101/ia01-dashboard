@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-22",
-  "updatedAt": "2026-07-22T06:32:02.942Z",
-  "exportedAt": "2026-07-22T21:15:44.723Z",
+  "dataAsOf": "2026-07-29",
+  "updatedAt": "2026-07-29T06:35:20.321Z",
+  "exportedAt": "2026-07-29T06:53:51.870Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -136,7 +136,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-07-29",
         "confidence": "high"
       },
       "src-ia-statutes": {
@@ -817,17 +817,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-22-ia01-auto",
-      "startedAt": "2026-07-22T06:30:45.657Z",
-      "completedAt": "2026-07-22T06:32:02.942Z",
+      "id": "run-2026-07-29-ia01-auto",
+      "startedAt": "2026-07-29T06:34:05.072Z",
+      "completedAt": "2026-07-29T06:35:20.321Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 17,
+      "sourcesChecked": 16,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-22 for IA-01. Sources checked: 17. LLM verifications: 19. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-07-29 for IA-01. Sources checked: 16. LLM verifications: 18. 2 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-07-29T06:32:02.942Z",
+    "NEXT_REFRESH_AT": "2026-08-05T06:35:20.321Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
