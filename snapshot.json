@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-07-29",
-  "updatedAt": "2026-07-29T06:35:20.321Z",
-  "exportedAt": "2026-07-29T06:53:51.870Z",
+  "dataAsOf": "2026-08-05",
+  "updatedAt": "2026-08-05T06:29:07.864Z",
+  "exportedAt": "2026-08-05T06:47:45.138Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -136,7 +136,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-07-29",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-ia-statutes": {
@@ -208,7 +208,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-07-22",
+        "lastVerified": "2026-08-05",
         "confidence": "high"
       },
       "src-johnson-auditor": {
@@ -817,17 +817,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-07-29-ia01-auto",
-      "startedAt": "2026-07-29T06:34:05.072Z",
-      "completedAt": "2026-07-29T06:35:20.321Z",
+      "id": "run-2026-08-05-ia01-auto",
+      "startedAt": "2026-08-05T06:27:52.907Z",
+      "completedAt": "2026-08-05T06:29:07.864Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
+      "sourcesChecked": 18,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-07-29 for IA-01. Sources checked: 16. LLM verifications: 18. 2 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-05 for IA-01. Sources checked: 18. LLM verifications: 20. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-05T06:35:20.321Z",
+    "NEXT_REFRESH_AT": "2026-08-12T06:29:07.864Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
