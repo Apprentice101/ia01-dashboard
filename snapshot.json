@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-05",
-  "updatedAt": "2026-08-05T06:29:07.864Z",
-  "exportedAt": "2026-08-05T06:47:45.138Z",
+  "dataAsOf": "2026-08-12",
+  "updatedAt": "2026-08-12T05:31:31.917Z",
+  "exportedAt": "2026-08-12T05:47:13.122Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-07-03",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-ia-sos-absentee": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -136,7 +136,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-ia-statutes": {
@@ -172,7 +172,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-05-27",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-ia-hf954": {
@@ -184,7 +184,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-07-15",
+        "lastVerified": "2026-08-12",
         "confidence": "high"
       },
       "src-ballotpedia-ia01": {
@@ -817,17 +817,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-05-ia01-auto",
-      "startedAt": "2026-08-05T06:27:52.907Z",
-      "completedAt": "2026-08-05T06:29:07.864Z",
+      "id": "run-2026-08-12-ia01-auto",
+      "startedAt": "2026-08-12T05:30:38.262Z",
+      "completedAt": "2026-08-12T05:31:31.917Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 18,
+      "sourcesChecked": 14,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-05 for IA-01. Sources checked: 18. LLM verifications: 20. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-12 for IA-01. Sources checked: 14. LLM verifications: 16. 5 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-12T06:29:07.864Z",
+    "NEXT_REFRESH_AT": "2026-08-19T05:31:31.917Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
