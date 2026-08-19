@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-12",
-  "updatedAt": "2026-08-12T05:31:31.917Z",
-  "exportedAt": "2026-08-12T05:47:13.122Z",
+  "dataAsOf": "2026-08-19",
+  "updatedAt": "2026-08-19T04:41:39.725Z",
+  "exportedAt": "2026-08-19T05:07:21.519Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-ia-sos-absentee": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -136,7 +136,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-ia-statutes": {
@@ -172,7 +172,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-12",
+        "lastVerified": "2026-08-19",
         "confidence": "high"
       },
       "src-ia-hf954": {
@@ -814,20 +814,80 @@
         "relevanceSummary": "Gov. Reynolds signed HF 954 banning ranked-choice voting statewide and requiring citizenship verification at voter registration through DOT database cross-checks. The Brennan Center flagged Iowa's new SOS recount-takeover authority as among 2025's most significant election-interference laws.",
         "tag": "rule-change",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0lkpivt",
+        "headline": "Elections - Scott County, Iowa",
+        "sourceName": "Scott County Iowa",
+        "url": "https://elections.scottcountyiowa.gov/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Scott County says absentee ballot request forms will be mailed starting 2026-08-24, forms dated or received before 2026-08-25 cannot be accepted, and ballots will be mailed starting 2026-10-14. Scott County is a major IA-01 county, so this is directly relevant for voters planning mail voting.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-098r5xr",
+        "headline": "November 3, 2026 General Election",
+        "sourceName": "Johnson County Iowa",
+        "url": "https://johnsoncountyiowa.gov/november-3-2026-general-election",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Johnson County’s election page lists key absentee and early-voting dates, including the first day to request mailed absentee ballots, the start of in-person early voting, and polling-place moves in the county. Johnson County is in IA-01, so these dates and location changes directly affect district voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-07tavf1",
+        "headline": "Secretary of State Paul Pate says 2026 'potential noncitizen' list unlikely",
+        "sourceName": "Iowa Capital Dispatch",
+        "url": "https://iowacapitaldispatch.com/2026/08/17/secretary-of-state-paul-pate-says-2026-potential-noncitizen-list-unlikely/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Pate said his office is unlikely to issue 2026 guidance for county auditors to challenge ballots of people identified as potential noncitizens, after that issue arose in 2024. That matters to IA-01 voters because it concerns statewide ballot-challenge and election-administration procedures that can affect voter eligibility and counting.",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-04nckh9",
+        "headline": "Pate backs absentee voting during Register's Political Soapbox",
+        "sourceName": "The Des Moines Register",
+        "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/08/17/pate-expresses-confidence-in-absentee-voting-during-register-soapbox/91248045007/",
+        "publishedAt": "2026-08-18",
+        "relevanceSummary": "Iowa Secretary of State Paul Pate said the state’s voter-ID laws, paper ballots, and online registration have increased participation and security, which directly affects how IA-01 voters will cast ballots this fall. The article is relevant to statewide voting-procedure rules that apply to all Iowa voters, including those in IA-01.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0sgnwm7",
+        "headline": "State Fair Straw Poll Returns, Iowans Encouraged to Register to Vote",
+        "sourceName": "KCII Radio",
+        "url": "https://www.kciiradio.com/2026/08/14/state-fair-straw-poll-returns-iowans-encouraged-to-register-to-vote/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "The piece notes that the Iowa Secretary of State’s office will post real-time results online and encourages Iowans to register to vote. While more general than county-specific coverage, it is still relevant to IA-01 voters because statewide registration rules apply to them.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-00x7o1q",
+        "headline": "Iowa Libertarians select 2 new candidates after ballot-access defeat",
+        "sourceName": "The Des Moines Register",
+        "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/08/13/iowa-libertarians-nominate-replacements-after-ballot-access-defeat-election-2026/91243865007/",
+        "publishedAt": "2026-08-14",
+        "relevanceSummary": "The article says the Libertarian State Central Committee nominated replacement candidates and must file affidavits of candidacy and related certification paperwork with the Iowa secretary of state. That is relevant to IA-01 voters because ballot-access and candidate-qualification changes can affect the November general-election ballot.",
+        "tag": "candidates",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-12-ia01-auto",
-      "startedAt": "2026-08-12T05:30:38.262Z",
-      "completedAt": "2026-08-12T05:31:31.917Z",
+      "id": "run-2026-08-19-ia01-auto",
+      "startedAt": "2026-08-19T04:39:56.841Z",
+      "completedAt": "2026-08-19T04:41:39.725Z",
       "triggerType": "scheduled",
       "sourcesChecked": 14,
-      "updatesCreated": 0,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-12 for IA-01. Sources checked: 14. LLM verifications: 16. 5 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-19 for IA-01. Sources checked: 14. LLM verifications: 15. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-19T05:31:31.917Z",
+    "NEXT_REFRESH_AT": "2026-08-26T04:41:39.725Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
