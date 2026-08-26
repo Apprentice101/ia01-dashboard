@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-19",
-  "updatedAt": "2026-08-19T04:41:39.725Z",
-  "exportedAt": "2026-08-19T05:07:21.519Z",
+  "dataAsOf": "2026-08-26",
+  "updatedAt": "2026-08-26T04:45:25.387Z",
+  "exportedAt": "2026-08-26T05:15:15.557Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-ia-sos-absentee": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -136,7 +136,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-ia-statutes": {
@@ -172,7 +172,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-19",
+        "lastVerified": "2026-08-26",
         "confidence": "high"
       },
       "src-ia-hf954": {
@@ -874,20 +874,60 @@
         "relevanceSummary": "The article says the Libertarian State Central Committee nominated replacement candidates and must file affidavits of candidacy and related certification paperwork with the Iowa secretary of state. That is relevant to IA-01 voters because ballot-access and candidate-qualification changes can affect the November general-election ballot.",
         "tag": "candidates",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0edo1jx",
+        "headline": "Iowa voters can now request absentee ballots for Nov. 3 election",
+        "sourceName": "KWQC",
+        "url": "https://www.kwqc.com/2026/08/25/iowa-voters-can-now-request-absentee-ballots-nov-3-election/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This matters to IA-01 voters because it confirms absentee ballot requests are now open in Scott County and, by extension, across Iowa for the November 3 general election. It is useful for voters who need mailing procedures and county auditor request information.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0g6ujtc",
+        "headline": "Absentee ballot requests begin in Iowa for Nov. 3 election",
+        "sourceName": "Iowa Capital Dispatch",
+        "url": "https://iowacapitaldispatch.com/briefs/absentee-ballot-requests-begin-in-iowa-for-nov-3-election/",
+        "publishedAt": "2026-08-25",
+        "relevanceSummary": "This statewide notice is directly relevant to IA-01 voters because Iowa counties began accepting absentee ballot request forms for the November 3 general election on August 25. It also explains the request deadline, mailing timeline, and the ID information needed on the application.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0f0x57j",
+        "headline": "Libertarian Nick Gluba says he's still fighting to get on Iowa ballot",
+        "sourceName": "Des Moines Register",
+        "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/08/20/libertarian-nick-gluba-says-hes-still-fighting-to-get-on-iowa-ballot/91384025007/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This is relevant to IA-01 voters because it covers Iowa ballot-access requirements and a challenge over whether a candidate met the rules to appear on the ballot. Even though the article focuses on a statewide issue, ballot-qualification standards affect voters in this district too.",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0fygupq",
+        "headline": "DOJ getting voter data debated in Iowa Sec. of State race",
+        "sourceName": "Radio Iowa",
+        "url": "https://www.radioiowa.com/2026/08/20/doj-getting-voter-data-debated-in-iowa-sec-of-state-race/",
+        "publishedAt": "2026-08-20",
+        "relevanceSummary": "This statewide election-administration story matters to IA-01 voters because it concerns the Iowa Secretary of State’s handling of voter data requested by the U.S. Department of Justice. It is relevant to statewide election administration and voter-file policy, which can affect all Iowa voters.",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-19-ia01-auto",
-      "startedAt": "2026-08-19T04:39:56.841Z",
-      "completedAt": "2026-08-19T04:41:39.725Z",
+      "id": "run-2026-08-26-ia01-auto",
+      "startedAt": "2026-08-26T04:43:34.178Z",
+      "completedAt": "2026-08-26T04:45:25.387Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 14,
-      "updatesCreated": 6,
+      "sourcesChecked": 15,
+      "updatesCreated": 4,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-19 for IA-01. Sources checked: 14. LLM verifications: 15. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-08-26 for IA-01. Sources checked: 15. LLM verifications: 16. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-08-26T04:41:39.725Z",
+    "NEXT_REFRESH_AT": "2026-09-02T04:45:25.387Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
