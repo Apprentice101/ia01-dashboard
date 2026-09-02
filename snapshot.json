@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-08-26",
-  "updatedAt": "2026-08-26T04:45:25.387Z",
-  "exportedAt": "2026-08-26T05:15:15.557Z",
+  "dataAsOf": "2026-09-02",
+  "updatedAt": "2026-09-02T08:32:58.254Z",
+  "exportedAt": "2026-09-02T09:09:04.455Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-ia-sos-absentee": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -136,7 +136,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-ia-statutes": {
@@ -172,7 +172,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-26",
+        "lastVerified": "2026-09-02",
         "confidence": "high"
       },
       "src-ia-hf954": {
@@ -914,20 +914,100 @@
         "relevanceSummary": "This statewide election-administration story matters to IA-01 voters because it concerns the Iowa Secretary of State’s handling of voter data requested by the U.S. Department of Justice. It is relevant to statewide election administration and voter-file policy, which can affect all Iowa voters.",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0jvuspc",
+        "headline": "General Election November 3, 2026",
+        "sourceName": "Scott County, Iowa",
+        "url": "https://www.scottcountyiowa.gov/auditor/post/2026/11/03/general-election-november-3-2026",
+        "publishedAt": "2026-08-31",
+        "relevanceSummary": "This Scott County auditor page links to consolidated information on voting for the November 3 general election, directing IA-01 voters in Scott County (including Davenport/Quad Cities) to county-specific details on polling locations, early voting, and other election logistics.[13]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0r9ung0",
+        "headline": "Judge rules Iowa Libertarians did not correctly replace 3rd District, lieutenant governor candidates",
+        "sourceName": "KCRG / Iowa Capital Dispatch",
+        "url": "https://www.kcrg.com/2026/08/28/judge-rules-iowa-libertarians-did-not-correctly-replace-3rd-district-lieutenant-governor-candidates/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "Covering the same ruling, this story reiterates that Libertarian candidates for governor and the 3rd Congressional District will not appear on the ballot because party officials did not follow Iowa’s replacement procedures, highlighting how courts enforce candidate qualification rules that also govern IA-01 contests.[14][6]",
+        "tag": "legal",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-05xfxjz",
+        "headline": "Judge rules two Iowa Libertarians can't be on fall ballot",
+        "sourceName": "Radio Iowa",
+        "url": "https://www.radioiowa.com/2026/08/28/judge-rules-two-iowa-libertarians-cant-be-on-fall-ballot/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This report describes a judge’s ruling that Libertarian replacement candidates for lieutenant governor and Iowa’s 3rd Congressional District cannot appear on the general-election ballot, explaining how Iowa law requires a three-fourths vote and proper certification for replacements—clarifying candidate qualification and ballot-access rules that are part of the same statewide framework governing IA-01 races.[5][6][14]",
+        "tag": "ballot-access",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0r6nnhl",
+        "headline": "Notice of Special Election - Tri-County School",
+        "sourceName": "Poweshiek County (official notice)",
+        "url": "https://poweshiekcountyiowa.gov/news/notice_of_special_election_tricounty_school/",
+        "publishedAt": "2026-08-28",
+        "relevanceSummary": "This official county notice for a special election explains Iowa’s polling-place ID requirements, proof-of-residence rules for Election Day registrants, use of provisional ballots when ID is lacking, and the option for voters with disabilities to vote from their vehicle—procedures that reflect statewide practices relevant to IA-01 voters.[2]",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0mxkfkl",
+        "headline": "6 Questions: What's Going On With the New Mail Ballot Rules?",
+        "sourceName": "National Conference of State Legislatures (NCSL)",
+        "url": "https://www.ncsl.org/state-legislatures-news/details/6-questions-whats-going-on-with-the-new-mail-ballot-rules",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This explainer outlines new USPS rules for federal ballot mail, including requirements that election officials submit a mail/absentee ballot participation list via a federal portal and design mail-ballot envelopes to specific standards, changes that affect how Iowa counties—including those in IA-01—mail and track absentee ballots for the November election.[4][8][9][10][12]",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0lz9e06",
+        "headline": "Judge says Iowa Libertarians can't replace governor, Congress nominees",
+        "sourceName": "Des Moines Register",
+        "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/08/27/libertarian-party-lawsuit-iowa-governor-congress-candidates-nominees/91481453007/",
+        "publishedAt": "2026-08-27",
+        "relevanceSummary": "This article details a Polk County judge’s decision that Iowa Libertarians failed to properly replace their gubernatorial and 3rd District congressional nominees, emphasizing the statutory requirement for a three-fourths committee vote and timely certification to election officials, which informs IA-01 voters about how parties must qualify candidates for the general ballot.[6][14]",
+        "tag": "candidates",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0bcv85b",
+        "headline": "Voters can now request absentee ballots for the November general election",
+        "sourceName": "Little Village",
+        "url": "https://littlevillagemag.com/voters-can-now-request-absentee-ballots-2026/",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "This article explains that registered Iowa voters can now request absentee ballots from their county auditor, details how to complete and return the request form, specifies that voters must provide a voter verification number (driver’s license, non-operator ID, or voter ID card PIN), and reiterates the Oct. 19 deadline—information directly applicable to IA-01 voters.[3]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0q1wvly",
+        "headline": "Absentee ballot requests begin in Iowa for Nov. 3 election",
+        "sourceName": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/political-news/2026-08-26/absentee-ballot-requests-begin-in-iowa-for-nov-3-election",
+        "publishedAt": "2026-08-26",
+        "relevanceSummary": "This statewide explainer notes that Iowans, including voters in IA-01, can now submit absentee ballot request forms to their county auditor for the November 3 general election, outlines the Oct. 19, 5 p.m. deadline for requests, and explains the ID information required and options if voters cannot return their mailed ballot by Election Day.[1]",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-08-26-ia01-auto",
-      "startedAt": "2026-08-26T04:43:34.178Z",
-      "completedAt": "2026-08-26T04:45:25.387Z",
+      "id": "run-2026-09-02-ia01-auto",
+      "startedAt": "2026-09-02T08:30:38.771Z",
+      "completedAt": "2026-09-02T08:32:58.254Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 4,
+      "sourcesChecked": 14,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-08-26 for IA-01. Sources checked: 15. LLM verifications: 16. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-02 for IA-01. Sources checked: 14. LLM verifications: 15. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-02T04:45:25.387Z",
+    "NEXT_REFRESH_AT": "2026-09-09T08:32:58.254Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
