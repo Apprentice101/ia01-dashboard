@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-02",
-  "updatedAt": "2026-09-02T08:32:58.254Z",
-  "exportedAt": "2026-09-02T09:09:04.455Z",
+  "dataAsOf": "2026-09-09",
+  "updatedAt": "2026-09-09T08:45:51.728Z",
+  "exportedAt": "2026-09-09T09:19:28.625Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-ia-sos-absentee": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -136,7 +136,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-ia-statutes": {
@@ -172,7 +172,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-02",
+        "lastVerified": "2026-09-09",
         "confidence": "high"
       },
       "src-ia-hf954": {
@@ -994,20 +994,100 @@
         "relevanceSummary": "This statewide explainer notes that Iowans, including voters in IA-01, can now submit absentee ballot request forms to their county auditor for the November 3 general election, outlines the Oct. 19, 5 p.m. deadline for requests, and explains the ID information required and options if voters cannot return their mailed ballot by Election Day.[1]",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-00w90w4",
+        "headline": "Marion County Begins Absentee Ballot Process",
+        "sourceName": "Ottumwa Radio",
+        "url": "https://ottumwaradio.com/2026/09/marion-county-begins-absentee-ballot-process/",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "This article announces that Marion County voters can now submit **absentee ballot request forms** for the 2026 general election, noting that forms are available from the Iowa Secretary of State and giving specific deadlines for voter registration and for requesting mailed absentee ballots, as well as the date when absentee ballots will start being mailed and available in person.[7] While focused on Marion County, it reflects statewide absentee procedures and deadlines that are relevant for IA-01 voters planning to vote by mail or early in person.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0i7s6oe",
+        "headline": "Elections - Black Hawk County",
+        "sourceName": "Black Hawk County, Iowa (County Elections page)",
+        "url": "https://www.blackhawkcounty.iowa.gov/190/Elections",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "Black Hawk County’s elections page explains accessible voting procedures such as having a team of election workers come to a voter’s car if they are unable to enter the polling place, along with other local voting information.[6] Although specific to Black Hawk County, this offers IA-01 voters a model for accessibility options and illustrates how Iowa counties implement voter-assistance procedures at polling locations.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0unncgo",
+        "headline": "Dubuque Community School Dist Special Election - Jackson County",
+        "sourceName": "Jackson County, Iowa (County Auditor/Elections page)",
+        "url": "https://jacksoncounty.iowa.gov/elections/dubuque_community_school_dist_special_election_2026_09_08/",
+        "publishedAt": "2026-09-08",
+        "relevanceSummary": "Jackson County (in eastern Iowa) provides details for the September 8, 2026 Dubuque Community School District special election, including local administration and result-posting practices, reflecting how county-level election offices run special elections and report results to voters.[2] While focused on a school election, it informs IA-01 voters about local election administration norms and where to find official results.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0tga6r4",
+        "headline": "November 3, 2026: General Election",
+        "sourceName": "Linn County, Iowa (County Auditor/Elections page)",
+        "url": "https://www.linncountyiowa.gov/1794/November-3-2026-General-Election",
+        "publishedAt": "2026-09-07",
+        "relevanceSummary": "Linn County (within IA-01) outlines key **absentee ballot** timelines, including when mailed ballots go out, the deadline for absentee request forms, and that completed ballots must be received by 8 p.m. on Election Day, plus details on **early in-person voting ID requirements** and acceptable identification documents for Election Day voting.[1] This gives IA-01 voters concrete procedures for mail-in voting, early voting, and voter-ID rules for the November general.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-07xo3ox",
+        "headline": "September 2026 Newsletter",
+        "sourceName": "Democrats Abroad",
+        "url": "https://www.democratsabroad.org/stacyhyer/september_newsletter_mrcgxpoqcmu6ejqx9lmodw",
+        "publishedAt": "2026-09-06",
+        "relevanceSummary": "This newsletter highlights that Iowa requires overseas absentee ballots to be **returned by postal mail**, and describes general mail‑ballot return steps like using privacy and mailing envelopes, signing where required, and ensuring proper postage and postmarks.[8] For IA-01 voters living abroad, these instructions clarify mail‑return requirements and practical steps to ensure their ballots are accepted.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0lidqrp",
+        "headline": "Pre-Processing Timelines, Update Fall 2026",
+        "sourceName": "Election Innovation Lab",
+        "url": "https://electioninnovation.org/research/pre-processing-timelines/",
+        "publishedAt": "2026-09-04",
+        "relevanceSummary": "This statewide resource summarizes Iowa’s **absentee ballot pre‑processing and counting timeline**, explaining that envelopes must be processed within 24 hours of receipt by specific deadlines and that special precinct boards may be convened the day before Election Day to review affidavits or begin counting absentee ballots if volume is high.[4] IA-01 voters gain insight into when mailed ballots are processed and counted, which affects expectations about election‑night results and absentee ballot handling.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0r6edmj",
+        "headline": "Let's Register",
+        "sourceName": "Webster County Democrats",
+        "url": "https://webstercoiadems.com/voting-2/",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "This voter guide explains how Iowans can register or change registration using the updated Iowa Voter Registration Form and outlines **same‑day registration requirements**, including the need for a current government‑issued photo ID for identity and additional proof of address if the ID lacks the current address, plus acceptable ID types and the option to use an attestor.[9] These statewide voter‑registration and voter‑ID procedures apply directly to IA-01 voters, especially those planning to register at the polls.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0m9j3af",
+        "headline": "Johnson County Auditor's Office completes review of 921 voter registration records",
+        "sourceName": "Johnson County, Iowa (County Auditor/News)",
+        "url": "https://www.johnsoncountyiowa.gov/news/auditor/2026-09-03/johnson-county-auditors-office-completes-review-921-voter-registration",
+        "publishedAt": "2026-09-03",
+        "relevanceSummary": "Johnson County (home to Iowa City in IA-01) reports that the Auditor’s Office has completed a review of 921 voter registration records and directs voters to confirm the address on file by contacting the elections office during business hours.[5] This matters for IA-01 voters because accurate registration addresses determine correct polling locations, ballot style, and prevent issues on Election Day.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-02-ia01-auto",
-      "startedAt": "2026-09-02T08:30:38.771Z",
-      "completedAt": "2026-09-02T08:32:58.254Z",
+      "id": "run-2026-09-09-ia01-auto",
+      "startedAt": "2026-09-09T08:43:20.839Z",
+      "completedAt": "2026-09-09T08:45:51.728Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 14,
+      "sourcesChecked": 16,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-02 for IA-01. Sources checked: 14. LLM verifications: 15. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-09 for IA-01. Sources checked: 16. LLM verifications: 17. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-09T08:32:58.254Z",
+    "NEXT_REFRESH_AT": "2026-09-16T08:45:51.728Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
