@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-09",
-  "updatedAt": "2026-09-09T08:45:51.728Z",
-  "exportedAt": "2026-09-09T09:19:28.625Z",
+  "dataAsOf": "2026-09-16",
+  "updatedAt": "2026-09-16T09:15:21.257Z",
+  "exportedAt": "2026-09-16T09:50:57.050Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-ia-sos-absentee": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -136,7 +136,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-ia-statutes": {
@@ -172,7 +172,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-09",
+        "lastVerified": "2026-09-16",
         "confidence": "high"
       },
       "src-ia-hf954": {
@@ -1074,20 +1074,80 @@
         "relevanceSummary": "Johnson County (home to Iowa City in IA-01) reports that the Auditor’s Office has completed a review of 921 voter registration records and directs voters to confirm the address on file by contacting the elections office during business hours.[5] This matters for IA-01 voters because accurate registration addresses determine correct polling locations, ballot style, and prevent issues on Election Day.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0tzryqx",
+        "headline": "National Voter Registration Day gets voters prepared for Nov. 3 general election",
+        "sourceName": "KCAU 9",
+        "url": "https://www.kcau9.com/news/your-local-election-hq/national-voter-registration-day-gets-voters-prepared-for-nov-3-general-election/",
+        "publishedAt": "2026-09-16",
+        "relevanceSummary": "This local election‑hq report for Iowa highlights early in‑person voting starting Oct. 14, encourages voters to obtain absentee ballot request forms from county auditor websites, and stresses that only one correctly completed request form is needed per voter.[5] Guidance from the Woodbury County auditor on avoiding errors in absentee requests is broadly applicable to IA‑01 voters who use similar forms and procedures with their own county auditors.[5]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0uzaf9c",
+        "headline": "QC election officials: Register and plan ahead before Midterms",
+        "sourceName": "KWQC",
+        "url": "https://www.kwqc.com/2026/09/15/qc-election-officials-register-plan-ahead-before-midterms/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "Quad Cities election officials urge residents to register early and check polling locations and deadlines, noting multiple places where voters can register, including libraries, driver’s license facilities, online options, and local election offices.[11] Because IA‑01 includes Scott County and the Iowa side of the Quad Cities, this planning and registration information directly helps district voters understand where and how to complete or verify registration and find polling place information.[11]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-002p08b",
+        "headline": "2026 midterm voting guide: What Iowans should know",
+        "sourceName": "We Are Iowa",
+        "url": "https://www.weareiowa.com/article/news/politics/elections/iowa-voter-guide-elections-polls-voter-id-absentee-ballots-2026-midterms/524-9cf0b054-32c0-4414-9e79-704efb8bc292",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This statewide guide details Iowa’s in-person absentee voting start date, absentee ballot request deadlines, rules on who may return a voted absentee ballot, and emphasizes that only ballots received by the county auditor by 8 p.m. on Election Day are counted.[2] It also lists acceptable voter ID documents such as Iowa driver’s licenses, passports, military IDs, tribal IDs, and voter ID cards, making it highly relevant for IA-01 voters’ planning for mail and in‑person voting.[2]",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0uq20fm",
+        "headline": "Nebraska, Iowa election officials host Voter Registration Day events",
+        "sourceName": "WOWT",
+        "url": "https://www.wowt.com/2026/09/15/nebraska-iowa-election-officials-host-voter-registration-day-events/",
+        "publishedAt": "2026-09-15",
+        "relevanceSummary": "This piece explains that Iowa election officials are using National Voter Registration Day events to help residents register or update registration and apply for early voting for the November general, noting that voter ID is required in Iowa and that mail-in ballots and drop boxes are available but must be returned by 8 p.m. on Election Day.[1] IA-01 voters benefit from the statewide clarification of registration options, mail ballot timelines, and ID requirements that apply uniformly across Iowa.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-08ng21i",
+        "headline": "Protecting The Midterm Vote",
+        "sourceName": "Blog for Iowa",
+        "url": "https://blogforiowa.com/2026/09/13/protecting-the-midterm-vote/",
+        "publishedAt": "2026-09-13",
+        "relevanceSummary": "This article provides an Iowa voter protection hotline number and encourages voters to report issues or problems at the polls during the midterms.[7] While more advocacy‑oriented, the availability of a statewide hotline is a practical resource for IA‑01 voters who experience difficulties with registration, ID, or ballot procedures on or before Election Day.[7]",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0ubqict",
+        "headline": "2026 General Election Nov 3rd ~ Sample Ballot",
+        "sourceName": "O'Brien County (Iowa) Auditor",
+        "url": "https://obriencounty.iowa.gov/2026/09/county-nominations/",
+        "publishedAt": "2026-09-11",
+        "relevanceSummary": "The O’Brien County auditor outlines absentee voting procedures for the 2026 general, including the Oct. 14 start of in‑person and mail‑out absentee voting, the Oct. 19 deadline for absentee ballot request forms, special Saturday office hours on Oct. 31, and the requirement that voters cast ballots at their assigned precinct polling place.[3] While O’Brien County is outside IA‑01, these county‑level details illustrate standard Iowa administrative practices and timelines that mirror those used in IA‑01 counties, helping voters understand how local auditors typically manage absentee and Election Day voting.[3]",
+        "tag": "administration",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-09-ia01-auto",
-      "startedAt": "2026-09-09T08:43:20.839Z",
-      "completedAt": "2026-09-09T08:45:51.728Z",
+      "id": "run-2026-09-16-ia01-auto",
+      "startedAt": "2026-09-16T09:13:20.499Z",
+      "completedAt": "2026-09-16T09:15:21.257Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
-      "updatesCreated": 8,
+      "sourcesChecked": 14,
+      "updatesCreated": 6,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-09 for IA-01. Sources checked: 16. LLM verifications: 17. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-16 for IA-01. Sources checked: 14. LLM verifications: 15. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-16T08:45:51.728Z",
+    "NEXT_REFRESH_AT": "2026-09-23T09:15:21.257Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
