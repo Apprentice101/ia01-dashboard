@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-16",
-  "updatedAt": "2026-09-16T09:15:21.257Z",
-  "exportedAt": "2026-09-16T09:50:57.050Z",
+  "dataAsOf": "2026-09-23",
+  "updatedAt": "2026-09-23T09:11:08.139Z",
+  "exportedAt": "2026-09-23T09:37:19.025Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-ia-sos-absentee": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -172,7 +172,7 @@
         "sourceType": "statutory",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-ia-hf954": {
@@ -208,7 +208,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-08-05",
+        "lastVerified": "2026-09-23",
         "confidence": "high"
       },
       "src-johnson-auditor": {
@@ -1134,20 +1134,50 @@
         "relevanceSummary": "The O’Brien County auditor outlines absentee voting procedures for the 2026 general, including the Oct. 14 start of in‑person and mail‑out absentee voting, the Oct. 19 deadline for absentee ballot request forms, special Saturday office hours on Oct. 31, and the requirement that voters cast ballots at their assigned precinct polling place.[3] While O’Brien County is outside IA‑01, these county‑level details illustrate standard Iowa administrative practices and timelines that mirror those used in IA‑01 counties, helping voters understand how local auditors typically manage absentee and Election Day voting.[3]",
         "tag": "administration",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-04f30sf",
+        "headline": "Iowa officials highlight election security, voting process ahead of Election Day",
+        "sourceName": "CBS2 Iowa",
+        "url": "https://cbs2iowa.com/news/local/iowa-officials-highlight-election-security-voting-process-ahead-of-election-day",
+        "publishedAt": "2026-09-22",
+        "relevanceSummary": "Iowa election officials described the state’s voter-ID, paper-ballot, post-election-audit, and mail-voting procedures. Officials said there would be no changes to mail-in ballots and that early voting begins October 14, information directly applicable to IA-01 voters.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-03igggc",
+        "headline": "General Election Reminders",
+        "sourceName": "Western Iowa Today",
+        "url": "https://westerniowatoday.com/2026/09/21/general-election-reminders/",
+        "publishedAt": "2026-09-21",
+        "relevanceSummary": "The article lists Iowa’s October 14 start date for absentee voting, October 19 pre-registration and mail-ballot-request deadlines, Election Day registration requirements, acceptable identity and residency documents, and 7 a.m.–8 p.m. polling hours. These statewide procedures apply to IA-01 voters.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0038x29",
+        "headline": "Early Voting Starts October 14th in Iowa",
+        "sourceName": "Western Iowa Today",
+        "url": "https://westerniowatoday.com/2026/09/18/early-voting-starts-october-14th-in-iowa/",
+        "publishedAt": "2026-09-18",
+        "relevanceSummary": "Iowa Secretary of State Paul Pate said voters may request mail ballots through their county auditor, ballots will be mailed beginning October 14, identification is required to receive a ballot, and completed ballots must arrive by 8 p.m. on Election Day. The statewide guidance applies to IA-01 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-16-ia01-auto",
-      "startedAt": "2026-09-16T09:13:20.499Z",
-      "completedAt": "2026-09-16T09:15:21.257Z",
+      "id": "run-2026-09-23-ia01-auto",
+      "startedAt": "2026-09-23T09:09:44.132Z",
+      "completedAt": "2026-09-23T09:11:08.139Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 14,
-      "updatesCreated": 6,
+      "sourcesChecked": 15,
+      "updatesCreated": 3,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-16 for IA-01. Sources checked: 14. LLM verifications: 15. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-23 for IA-01. Sources checked: 15. LLM verifications: 16. 4 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-23T09:15:21.257Z",
+    "NEXT_REFRESH_AT": "2026-09-30T09:11:08.139Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
