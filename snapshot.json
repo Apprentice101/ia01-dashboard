@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-23",
-  "updatedAt": "2026-09-23T09:11:08.139Z",
-  "exportedAt": "2026-09-23T09:37:19.025Z",
+  "dataAsOf": "2026-09-30",
+  "updatedAt": "2026-09-30T10:17:10.524Z",
+  "exportedAt": "2026-09-30T10:37:17.567Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-ia-sos-absentee": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -208,7 +208,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-23",
+        "lastVerified": "2026-09-30",
         "confidence": "high"
       },
       "src-johnson-auditor": {
@@ -1164,20 +1164,70 @@
         "relevanceSummary": "Iowa Secretary of State Paul Pate said voters may request mail ballots through their county auditor, ballots will be mailed beginning October 14, identification is required to receive a ballot, and completed ballots must arrive by 8 p.m. on Election Day. The statewide guidance applies to IA-01 voters.",
         "tag": "deadline",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0z721bx",
+        "headline": "2026 Battleground Report: How Voting Rules Have Changed Since the 2022 Midterms",
+        "sourceName": "Voting Rights Lab",
+        "url": "https://votingrightslab.org/report/2026-battleground-report-how-voting-rules-have-changed-since-the-2022-midterms/",
+        "publishedAt": "2026-09-29",
+        "relevanceSummary": "The report describes Iowa changes affecting voters statewide, including removal of the option for another voter to attest to a voter’s identity, provisional-ballot procedures for voters without acceptable ID, mail-ballot identification-number requirements, and limits on county drop boxes. These rules apply to voters in IA-01, though the report is a national comparative analysis rather than district-specific coverage.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0ue4vla",
+        "headline": "Voter Pre-Registration Deadline Approaching",
+        "sourceName": "KIOW",
+        "url": "https://kiow.com/2026/09/28/voter-pre-registration-deadline-approaching/",
+        "publishedAt": "2026-09-28",
+        "relevanceSummary": "The county election commissioner announces that October 19, 2026, at 5:00 p.m. is the pre-registration deadline and the deadline to request an absentee ballot by mail, with additional dates for in-person absentee voting and ballot returns. Although the notice concerns Winnebago County, the stated Iowa election deadlines are useful statewide procedural guidance for IA-01 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0b3pshf",
+        "headline": "2026 Election: What ID Do You Need to Bring to the Polls?",
+        "sourceName": "AARP",
+        "url": "https://www.aarp.org/government-elections/what-to-bring-to-vote/",
+        "publishedAt": "2026-09-25",
+        "relevanceSummary": "This 2026 voting guide explains Iowa’s identification rules, including how voters whose photo ID has outdated information can supplement it with documents such as a property-tax statement, utility bill, or bank statement. It also advises voters to verify registration and polling-place information before voting.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0wasm8h",
+        "headline": "What Americans are asking online about voting as the 2026 midterms approach",
+        "sourceName": "MeaWW",
+        "url": "https://news.meaww.com/what-americans-are-asking-online-about-voting-as-the-2026-midterms-approach",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "The article reports that Iowa removed the option for voters without acceptable identification to have another voter attest to their identity and directs voters to check current state and local requirements. This is statewide voter-ID procedure information applicable to IA-01.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0ik8yu7",
+        "headline": "2026 Iowa Election: Who's on my ballot",
+        "sourceName": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/political-news/2026-09-24/2026-iowa-ballot-voting-iowa-governor",
+        "publishedAt": "2026-09-24",
+        "relevanceSummary": "This statewide Iowa voter guide explains how to identify the races and questions appearing on the November general-election ballot and directs voters to their county auditor for a complete sample ballot. It also links voters to the Iowa Secretary of State for registration checks and registration services.",
+        "tag": "voter-resource",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-23-ia01-auto",
-      "startedAt": "2026-09-23T09:09:44.132Z",
-      "completedAt": "2026-09-23T09:11:08.139Z",
+      "id": "run-2026-09-30-ia01-auto",
+      "startedAt": "2026-09-30T10:15:56.174Z",
+      "completedAt": "2026-09-30T10:17:10.524Z",
       "triggerType": "scheduled",
       "sourcesChecked": 15,
-      "updatesCreated": 3,
+      "updatesCreated": 5,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-23 for IA-01. Sources checked: 15. LLM verifications: 16. 4 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-09-30 for IA-01. Sources checked: 15. LLM verifications: 16. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-09-30T09:11:08.139Z",
+    "NEXT_REFRESH_AT": "2026-10-07T10:17:10.524Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
