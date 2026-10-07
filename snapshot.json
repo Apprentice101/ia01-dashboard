@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-09-30",
-  "updatedAt": "2026-09-30T10:17:10.524Z",
-  "exportedAt": "2026-09-30T10:37:17.567Z",
+  "dataAsOf": "2026-10-07",
+  "updatedAt": "2026-10-07T10:52:43.138Z",
+  "exportedAt": "2026-10-07T11:12:30.759Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-ia-sos-absentee": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -208,7 +208,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-30",
+        "lastVerified": "2026-10-07",
         "confidence": "high"
       },
       "src-johnson-auditor": {
@@ -1214,20 +1214,90 @@
         "relevanceSummary": "This statewide Iowa voter guide explains how to identify the races and questions appearing on the November general-election ballot and directs voters to their county auditor for a complete sample ballot. It also links voters to the Iowa Secretary of State for registration checks and registration services.",
         "tag": "voter-resource",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0j3v5m6",
+        "headline": "PUBLIC NOTICE EARLY VOTING SITES",
+        "sourceName": "Telegraph Herald",
+        "url": "https://www.telegraphherald.com/classifieds/legals/ad_632c61c8-6ffe-5b36-80d1-90ead26dcde2.html",
+        "publishedAt": "2026-10-07",
+        "relevanceSummary": "The Dubuque County notice lists satellite early-voting locations and dates for the Nov. 3 general election, including a Cascade City Hall site on Oct. 15. It states that voter ID is required at early-voting sites; Dubuque County is within IA-01.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0f2wadd",
+        "headline": "Iowa Democrats chip into GOP voter registration lead. Here's where:",
+        "sourceName": "The Des Moines Register",
+        "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/10/06/iowa-voter-registration-data-2026-election/92057067007/",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The article provides statewide voter-registration context and reminds Iowa voters that early voting and absentee-ballot mailing begin Oct. 14. Oct. 19 is the deadline for both pre-registration and submitting a written request for a mailed ballot, while Election Day registration remains available in person.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0vqp4nz",
+        "headline": "Why some Iowans are getting voter registration and absentee ballot mailers",
+        "sourceName": "KCRG",
+        "url": "https://www.kcrg.com/2026/10/06/why-some-iowans-are-getting-voter-registration-absentee-ballot-mailers/",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "The report explains how voters can distinguish privately distributed election mailers from official county-auditor communications. It also gives Iowa’s Oct. 19, 5 p.m. absentee-request deadline and the 8 p.m. Election Day deadline for returning completed absentee ballots.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0k4jcm6",
+        "headline": "Why Iowans are getting voter mailers",
+        "sourceName": "KCCI",
+        "url": "https://www.kcci.com/article/iowa-voter-registration-absentee-ballot-mailers/74040625",
+        "publishedAt": "2026-10-06",
+        "relevanceSummary": "Iowa voters are receiving private mailers containing official registration and absentee-ballot forms. The article advises voters to verify the sender and county-auditor return address; absentee-ballot requests for the Nov. 3 general election must arrive by 5 p.m. Oct. 19, and completed ballots must arrive by 8 p.m. Election Day.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0yopx9l",
+        "headline": "Here's your guide to early voter registration and requirements",
+        "sourceName": "KTIV",
+        "url": "https://www.ktiv.com/2026/10/02/decision-2026-heres-your-guide-early-voter-registration-requirements/",
+        "publishedAt": "2026-10-02",
+        "relevanceSummary": "This Iowa election guide says general-election voting begins Oct. 14 and mailed absentee-ballot applications must reach county auditors by 5 p.m. Oct. 19. It also outlines voter-registration eligibility requirements and encourages voters to submit absentee requests early.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0pby09a",
+        "headline": "State Voting Laws Roundup: October 2026",
+        "sourceName": "Brennan Center for Justice",
+        "url": "https://www.brennancenter.org/our-work/research-reports/state-voting-laws-roundup-october-2026",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The roundup reports that an Iowa law in effect for the midterms removes the option for a registered voter in the same precinct to vouch for the identity of a voter who lacks acceptable photo identification. IA-01 voters without qualifying ID must therefore use another permitted identification or follow the remaining election procedures.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0o9v9mk",
+        "headline": "General Election Voter Pre-Registration and Absentee Ballot Request Deadline is October 19th",
+        "sourceName": "Western Iowa Today",
+        "url": "https://westerniowatoday.com/2026/10/01/general-election-voter-pre-registration-and-absentee-ballot-request-deadline-is-october-19th/",
+        "publishedAt": "2026-10-01",
+        "relevanceSummary": "The county-auditor notice explains Iowa’s Oct. 19 pre-registration and absentee-request deadlines, Election Day registration requirements, in-person absentee voting dates, and polling hours. Although the notice concerns Cass County, it reflects statewide procedures that apply to IA-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-09-30-ia01-auto",
-      "startedAt": "2026-09-30T10:15:56.174Z",
-      "completedAt": "2026-09-30T10:17:10.524Z",
+      "id": "run-2026-10-07-ia01-auto",
+      "startedAt": "2026-10-07T10:51:28.724Z",
+      "completedAt": "2026-10-07T10:52:43.138Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
-      "updatesCreated": 5,
+      "sourcesChecked": 16,
+      "updatesCreated": 7,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-09-30 for IA-01. Sources checked: 15. LLM verifications: 16. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-07 for IA-01. Sources checked: 16. LLM verifications: 17. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-07T10:17:10.524Z",
+    "NEXT_REFRESH_AT": "2026-10-14T10:52:43.138Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
