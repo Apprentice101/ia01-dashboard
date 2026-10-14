@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-07",
-  "updatedAt": "2026-10-07T10:52:43.138Z",
-  "exportedAt": "2026-10-07T11:12:30.759Z",
+  "dataAsOf": "2026-10-14",
+  "updatedAt": "2026-10-14T09:16:48.893Z",
+  "exportedAt": "2026-10-14T09:32:04.259Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-ia-sos-absentee": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -136,7 +136,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-09-16",
+        "lastVerified": "2026-10-14",
         "confidence": "high"
       },
       "src-ia-statutes": {
@@ -1284,20 +1284,100 @@
         "relevanceSummary": "The county-auditor notice explains Iowa’s Oct. 19 pre-registration and absentee-request deadlines, Election Day registration requirements, in-person absentee voting dates, and polling hours. Although the notice concerns Cass County, it reflects statewide procedures that apply to IA-01 voters.",
         "tag": "voter-info",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0u5tsv7",
+        "headline": "Early and absentee voting starts tomorrow in Marshall County",
+        "sourceName": "Times-Republican",
+        "url": "https://www.timesrepublican.com/news/todays-news/2026/10/early-and-absentee-voting-starts-tomorrow-in-marshall-county/",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "This county-level Iowa article describes absentee-ballot requests, a county drop box, and early-voting hours. Its direct impact on IA-01 is indirect because Marshall County is outside the district, but it is relevant as Iowa election-administration coverage.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0e87avb",
+        "headline": "Early voting begins Wednesday in Iowa",
+        "sourceName": "CBS2 Iowa",
+        "url": "https://cbs2iowa.com/news/local/early-voting-begins-wednesday-in-iowa",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "The statewide report informs IA-01 voters that early voting and absentee-ballot mailing begin October 14, mail-ballot requests are due October 19, and completed ballots must arrive by 8 p.m. November 3.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0u7veyq",
+        "headline": "General election information for Black Hawk County voters",
+        "sourceName": "Black Hawk County",
+        "url": "https://www.blackhawkcounty.iowa.gov/CivicAlerts.aspx?aid=725",
+        "publishedAt": "2026-10-13",
+        "relevanceSummary": "Black Hawk County is within IA-01. The notice explains absentee-ballot availability, the October 19 request deadline, the 8 p.m. Election Day receipt deadline, and identification and residence-document requirements for late registration.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0dmwjlc",
+        "headline": "Early Voting Begins This Week for General Election",
+        "sourceName": "KCI Radio",
+        "url": "https://www.kciiradio.com/2026/10/12/early-voting-begins-this-week-for-general-election/",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "The Iowa-wide procedural notice provides the October 14 start date, October 19 deadline for written absentee-ballot applications, and November 3 deadline for returning marked ballots.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-07fcx61",
+        "headline": "Early voting starts this week in Iowa. Here's what you need to know",
+        "sourceName": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/political-news/2026-10-12/what-you-need-to-know-early-voting-iowa-2026-election",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "This statewide Iowa voter guide applies directly to IA-01 voters. It explains in-person absentee voting from October 14 through Election Day, the October 19 mail-ballot request deadline, and ways to return absentee ballots.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0x1u193",
+        "headline": "Important November 3 General Election Dates",
+        "sourceName": "Scott County Auditor",
+        "url": "https://www.scottcountyiowa.gov/auditor/post/2026/10/12/important-november-3-general-election-dates",
+        "publishedAt": "2026-10-12",
+        "relevanceSummary": "Scott County is within IA-01. The article gives district-relevant absentee-ballot deadlines, including the October 19 request deadline, November 3 receipt deadline, available drop box, and polling hours.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-01xgaqy",
+        "headline": "Iowa absentee ballot deadline approaching. How to vote by mail.",
+        "sourceName": "The Des Moines Register",
+        "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/10/08/how-to-request-return-iowa-mail-in-ballot-election-2026/92107115007/",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "The statewide guide explains how Iowa voters, including those in IA-01, request and return absentee ballots, track mailed ballots, surrender an unused absentee ballot at the polls, and meet the October 19 and November 3 deadlines.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0ospiha",
+        "headline": "Iowa election guide: Sample ballots for KCCI's coverage area",
+        "sourceName": "KCCI",
+        "url": "https://www.kcci.com/article/iowa-election-guide-sample-ballots-2026-general-election-nov-3/74083749",
+        "publishedAt": "2026-10-08",
+        "relevanceSummary": "This Iowa election guide covers procedures relevant to IA-01 voters, including proof-of-identity and residence requirements, absentee-ballot request deadlines, and identification information required on the request form.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-07-ia01-auto",
-      "startedAt": "2026-10-07T10:51:28.724Z",
-      "completedAt": "2026-10-07T10:52:43.138Z",
+      "id": "run-2026-10-14-ia01-auto",
+      "startedAt": "2026-10-14T09:15:44.766Z",
+      "completedAt": "2026-10-14T09:16:48.893Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
-      "updatesCreated": 7,
+      "sourcesChecked": 15,
+      "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-07 for IA-01. Sources checked: 16. LLM verifications: 17. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-14 for IA-01. Sources checked: 15. LLM verifications: 16. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-14T10:52:43.138Z",
+    "NEXT_REFRESH_AT": "2026-10-21T09:16:48.893Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
