@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-14",
-  "updatedAt": "2026-10-14T09:16:48.893Z",
-  "exportedAt": "2026-10-14T09:32:04.259Z",
+  "dataAsOf": "2026-10-21",
+  "updatedAt": "2026-10-21T09:07:48.025Z",
+  "exportedAt": "2026-10-21T09:22:02.134Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-ia-sos-absentee": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-10-14",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -208,7 +208,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-10-07",
+        "lastVerified": "2026-10-21",
         "confidence": "high"
       },
       "src-johnson-auditor": {
@@ -1364,20 +1364,100 @@
         "relevanceSummary": "This Iowa election guide covers procedures relevant to IA-01 voters, including proof-of-identity and residence requirements, absentee-ballot request deadlines, and identification information required on the request form.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-03qbqju",
+        "headline": "More than 600 Warren County voters received an extra absentee ballot",
+        "sourceName": "Des Moines Register",
+        "url": "https://www.desmoinesregister.com/story/news/politics/elections/2026/10/20/warren-county-iowa-absentee-ballots-election-2026/92344282007/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "Warren County election officials said duplicate absentee ballots were flagged and only one ballot per voter would be counted. The article also restates Iowa’s absentee deadlines, including the requirement that ballots arrive by 8 p.m. on Election Day.",
+        "tag": "security",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-09z70mc",
+        "headline": "As Iowa harvest picks up, state officials urge farmers to vote early",
+        "sourceName": "KCRG",
+        "url": "https://www.kcrg.com/2026/10/20/iowa-harvest-picks-up-state-officials-urge-farmers-vote-early/",
+        "publishedAt": "2026-10-20",
+        "relevanceSummary": "State officials reminded Iowa voters that the mailed-absentee request deadline passed Oct. 19, while in-person absentee voting remains available at county election offices or satellite locations through Nov. 2.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0m8omm8",
+        "headline": "Early voting guide: What to know before voting in Iowa's midterm election",
+        "sourceName": "We Are Iowa",
+        "url": "https://www.weareiowa.com/article/news/politics/elections/iowa-early-voting-guide-midterm-election-voter-registration/524-fa60de7d-0bf9-4874-875d-d91b62740734",
+        "publishedAt": "2026-10-16",
+        "relevanceSummary": "The statewide guide lists accepted forms of photo identification and explains how registered voters can request, return, or hand-deliver absentee ballots. It says mailed absentee requests were due by 5 p.m. Oct. 19 and ballots must arrive by 8 p.m. on Election Day.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0v3az7x",
+        "headline": "Preparation for the November 3, 2026 General Election",
+        "sourceName": "Jones County Elections",
+        "url": "https://www.jonescountyiowaelections.gov/news/preparation_for_the_november_3_2026_general_election/",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "The county election office describes Iowa’s Oct. 19 deadline for mailed absentee requests, in-person absentee dates through Nov. 2, and available Saturday voting. It also reminds voters that identification is required and attesters are no longer allowed for preregistered voters.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0c7zlhs",
+        "headline": "Tips from the Sec of State as early voting is underway",
+        "sourceName": "KJAN",
+        "url": "https://www.kjan.com/news/tips-from-the-sec-of-state-as-early-voting-is-underway/",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "The Secretary of State advised Iowa voters to verify registration, monitor absentee-ballot status through the state tracking system, and ensure mailed ballots arrive by Election Day. Voters whose ballots have not arrived may be able to follow up with their auditor or vote in person.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0pa0lg3",
+        "headline": "Thousands head to the polls on the first day of early voting in Iowa",
+        "sourceName": "CBS2 Iowa",
+        "url": "https://cbs2iowa.com/news/local/thousands-head-to-the-polls-on-the-first-day-of-early-voting-in-iowa",
+        "publishedAt": "2026-10-15",
+        "relevanceSummary": "Iowa Secretary of State Paul Pate explained that voters who forget required identification can cast a provisional ballot and later provide ID. The story highlights the statewide change ending voter attestation for people who lack permitted ID.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0hgn5er",
+        "headline": "Early voting begins Wednesday in Iowa",
+        "sourceName": "WHO 13",
+        "url": "https://who13.com/news/politics/iowa-politics/early-voting-begins-wednesday-in-iowa/",
+        "publishedAt": "2026-10-14",
+        "relevanceSummary": "The statewide report states that county auditors began mailing requested absentee ballots, with Oct. 19 at 5 p.m. as the request deadline and 8 p.m. on Election Day as the receipt deadline for counted ballots.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0ce9e3c",
+        "headline": "What to know as early voting begins in Iowa for 2026 general election",
+        "sourceName": "Iowa Capital Dispatch",
+        "url": "https://iowacapitaldispatch.com/2026/10/14/what-to-know-as-early-voting-begins-in-iowa-for-2026-general-election/",
+        "publishedAt": "2026-10-14",
+        "relevanceSummary": "Iowa voters can request absentee ballots through 5 p.m. Oct. 19, and completed mail ballots must reach the county auditor by 8 p.m. Nov. 3. The article also explains accepted identification, proof-of-residence documents, provisional ballots, and the deadline for supplying missing documentation.",
+        "tag": "voter-id",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-14-ia01-auto",
-      "startedAt": "2026-10-14T09:15:44.766Z",
-      "completedAt": "2026-10-14T09:16:48.893Z",
+      "id": "run-2026-10-21-ia01-auto",
+      "startedAt": "2026-10-21T09:06:48.619Z",
+      "completedAt": "2026-10-21T09:07:48.025Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 15,
+      "sourcesChecked": 16,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-14 for IA-01. Sources checked: 15. LLM verifications: 16. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-21 for IA-01. Sources checked: 16. LLM verifications: 17. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-21T09:16:48.893Z",
+    "NEXT_REFRESH_AT": "2026-10-28T09:07:48.025Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
