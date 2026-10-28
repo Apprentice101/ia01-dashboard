@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-10-21",
-  "updatedAt": "2026-10-21T09:07:48.025Z",
-  "exportedAt": "2026-10-21T09:22:02.134Z",
+  "dataAsOf": "2026-10-28",
+  "updatedAt": "2026-10-28T10:19:22.675Z",
+  "exportedAt": "2026-10-28T10:23:51.485Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -112,7 +112,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "high"
       },
       "src-ia-sos-absentee": {
@@ -124,7 +124,7 @@
         "sourceType": "official-state",
         "hierarchyLevel": 1,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "high"
       },
       "src-ia-voter-ready": {
@@ -208,7 +208,7 @@
         "sourceType": "official-county",
         "hierarchyLevel": 2,
         "dateAccessed": "2026-05-27",
-        "lastVerified": "2026-10-21",
+        "lastVerified": "2026-10-28",
         "confidence": "high"
       },
       "src-johnson-auditor": {
@@ -1444,20 +1444,100 @@
         "relevanceSummary": "Iowa voters can request absentee ballots through 5 p.m. Oct. 19, and completed mail ballots must reach the county auditor by 8 p.m. Nov. 3. The article also explains accepted identification, proof-of-residence documents, provisional ballots, and the deadline for supplying missing documentation.",
         "tag": "voter-id",
         "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0w983cd",
+        "headline": "Iowa officials report boost in early voting turnout",
+        "sourceName": "WOWT",
+        "url": "https://www.wowt.com/2026/10/27/iowa-officials-report-boost-early-voting-turnout/",
+        "publishedAt": "2026-10-27",
+        "relevanceSummary": "The report notes that in-person voting continues at county auditor offices and provides extended voting hours in Pottawattamie County. It offers a current example of Iowa early-voting administration relevant to statewide voters, including IA-01 residents.",
+        "tag": "administration",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0lcmqq9",
+        "headline": "In First 11 Days of Early Voting, 71% of Ballots Cast in Person",
+        "sourceName": "Kiw Radio",
+        "url": "https://kiwaradio.com/news/in-first-11-days-of-early-voting-71-of-ballots-cast-in-person/",
+        "publishedAt": "2026-10-27",
+        "relevanceSummary": "The article reports Iowa Secretary of State figures showing more than 265,000 ballots cast during the first 11 days of early voting, with about 71% cast in person. It confirms that early voting remains available statewide through Election Day, including for IA-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0kanu6v",
+        "headline": "Voting In Person At Auditors’ Offices Continues; Small Change Regarding Presenting Your ID To Vote",
+        "sourceName": "Kiw Radio",
+        "url": "https://kiwaradio.com/news/voting-in-person-at-auditors-offices-continues-small-change-regarding-presenting-your-id-to-vote/",
+        "publishedAt": "2026-10-26",
+        "relevanceSummary": "The article describes Iowa absentee-ballot receipt deadlines, extended in-person voting hours, the state's Election Day registration option, and a change involving presentation of identification. These procedures apply statewide, including in IA-01.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0ji716z",
+        "headline": "2026 General Election - Absentee Voting",
+        "sourceName": "Marion County, Iowa",
+        "url": "https://www.marioncountyiowa.gov/news/2026_general_election_absentee_voting/",
+        "publishedAt": "2026-10-26",
+        "relevanceSummary": "Marion County lists polling hours and the final date to request and vote an absentee ballot in person. Although outside IA-01, the county-level absentee logistics are relevant as Iowa administrative practice and provide a useful procedural reference.",
+        "tag": "voter-resource",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0869i2y",
+        "headline": "Election Day right around the corner",
+        "sourceName": "N'West Iowa Review",
+        "url": "https://www.nwestiowa.com/nwest_iowa_review/election-day-right-around-the-corner/article_ddeea55c-21c0-43f4-8989-4b8a1f95977a.html",
+        "publishedAt": "2026-10-26",
+        "relevanceSummary": "The article provides statewide Iowa voting logistics: polling hours, how to find a polling place, absentee-ballot delivery deadlines, hand-delivery options, and the final day for in-person absentee voting. These deadlines and procedures apply to IA-01 voters.",
+        "tag": "deadline",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-0aq1bft",
+        "headline": "Election 2026: How to vote in Nebraska & Iowa",
+        "sourceName": "WOWT",
+        "url": "https://www.wowt.com/2026/10/26/election-2026-how-vote-nebraska-iowa/",
+        "publishedAt": "2026-10-26",
+        "relevanceSummary": "The voter guide summarizes Iowa's voter-ID requirement and directs voters to Iowa Secretary of State information and sample-ballot resources. The statewide guidance applies to voters in IA-01.",
+        "tag": "voter-id",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-00pyji9",
+        "headline": "Election Day is coming fast. Here's what voters should know",
+        "sourceName": "USA TODAY",
+        "url": "https://www.usatoday.com/story/graphics/2026/10/23/2026-election-day-voting-guide/92378958007/",
+        "publishedAt": "2026-10-23",
+        "relevanceSummary": "The guide states that Iowa generally requires registration at least 15 days before the election and explains that voter-identification rules vary by state. The Iowa registration deadline and ID guidance are relevant to IA-01 voters.",
+        "tag": "voter-info",
+        "reviewState": "new"
+      },
+      {
+        "id": "news-ia01-08pml1i",
+        "headline": "What to know about election integrity safeguards ahead of the midterms",
+        "sourceName": "Iowa Public Radio",
+        "url": "https://www.iowapublicradio.org/political-news/2026-10-22/iowa-elections-integrity-ballots-marked-paper-ballots-voting-poll-workers-iowa-auditors-secretary-of-state",
+        "publishedAt": "2026-10-22",
+        "relevanceSummary": "Iowa election officials explain safeguards applying statewide, including initialed paper ballots, offline tabulators, absentee-ballot tracking, provisional ballots, poll-book checks, secure ballot storage, and post-election audits. These procedures directly apply to IA-01 voters.",
+        "tag": "security",
+        "reviewState": "new"
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-10-21-ia01-auto",
-      "startedAt": "2026-10-21T09:06:48.619Z",
-      "completedAt": "2026-10-21T09:07:48.025Z",
+      "id": "run-2026-10-28-ia01-auto",
+      "startedAt": "2026-10-28T10:18:21.329Z",
+      "completedAt": "2026-10-28T10:19:22.675Z",
       "triggerType": "scheduled",
-      "sourcesChecked": 16,
+      "sourcesChecked": 15,
       "updatesCreated": 8,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-10-21 for IA-01. Sources checked: 16. LLM verifications: 17. 3 lastVerified bumps on unchanged sources."
+      "summary": "Automated refresh completed 2026-10-28 for IA-01. Sources checked: 15. LLM verifications: 16. 3 lastVerified bumps on unchanged sources."
     },
-    "NEXT_REFRESH_AT": "2026-10-28T09:07:48.025Z",
+    "NEXT_REFRESH_AT": "2026-11-04T10:19:22.675Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
