@@ -1,8 +1,8 @@
 {
   "version": "1",
-  "dataAsOf": "2026-11-11",
-  "updatedAt": "2026-11-11T11:37:30.204Z",
-  "exportedAt": "2026-11-11T11:43:21.955Z",
+  "dataAsOf": "2026-11-18",
+  "updatedAt": "2026-11-18T12:33:23.505Z",
+  "exportedAt": "2026-11-18T12:40:57.692Z",
   "districtCode": "ia-01",
   "data": {
     "DISTRICT": {
@@ -1527,17 +1527,17 @@
       }
     ],
     "LAST_REFRESH": {
-      "id": "run-2026-11-11-ia01-auto",
-      "startedAt": "2026-11-11T11:37:24.745Z",
-      "completedAt": "2026-11-11T11:37:30.204Z",
+      "id": "run-2026-11-18-ia01-auto",
+      "startedAt": "2026-11-18T12:33:18.226Z",
+      "completedAt": "2026-11-18T12:33:23.505Z",
       "triggerType": "scheduled",
       "sourcesChecked": 24,
       "updatesCreated": 0,
       "conflictsCreated": 0,
       "errors": [],
-      "summary": "Automated refresh completed 2026-11-11 for IA-01. Sources checked: 24. LLM verifications: 26. No changes detected; all sources verified unchanged."
+      "summary": "Automated refresh completed 2026-11-18 for IA-01. Sources checked: 24. LLM verifications: 26. No changes detected; all sources verified unchanged."
     },
-    "NEXT_REFRESH_AT": "2026-11-18T11:37:30.204Z",
+    "NEXT_REFRESH_AT": "2026-11-25T12:33:23.505Z",
     "WEEKLY_REPORT": {
       "id": "wr-ia01-2026-w25",
       "periodStart": "2026-06-11",
